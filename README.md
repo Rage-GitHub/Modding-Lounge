@@ -1,14 +1,16 @@
 # Table of Contents
-1. Welcome to Atomic Warfare
-    - Main Takeaways
-      - Quests and Adventures
-      - Noticeable Features
-    - Other Things to Notes
-2. Prerequisites Before Beginning
-    - Installing the Modlist via Wabbajack
-3. Hardware Specifications
-    - Minimum Specifications
-    - Personal Specifications
+1. [Welcome to Atomic Warfare](https://github.com/Rage-GitHub/Atomic-Warfare#welcome-to-atomic-warfare)
+    - [Main Takeaways](https://github.com/Rage-GitHub/Atomic-Warfare#main-takeaways)
+      - [Quests and Adventures](https://github.com/Rage-GitHub/Atomic-Warfare#quests-and-adventures)
+      - [Noticeable Features](https://github.com/Rage-GitHub/Atomic-Warfare#noticeable-features)
+    - [Other Things to Notes](https://github.com/Rage-GitHub/Atomic-Warfare#other-things-to-note)
+      - [Optional Mods](https://github.com/Rage-GitHub/Atomic-Warfare#optional-mods)
+      - [Best Practices](https://github.com/Rage-GitHub/Atomic-Warfare#best-practices)
+2. [Prerequisites Before Beginning](https://github.com/Rage-GitHub/Atomic-Warfare#prerequisites-before-beginning)
+    - [Installing the Modlist via Wabbajack](https://github.com/Rage-GitHub/Atomic-Warfare#installing-the-modlist-via-wabbajack)
+3. [Hardware Specifications](https://github.com/Rage-GitHub/Atomic-Warfare#hardware-specifications)
+    - [Minimum Specifications](https://github.com/Rage-GitHub/Atomic-Warfare#minimum-specifications)
+    - [Personal Specifications](https://github.com/Rage-GitHub/Atomic-Warfare#personal-specifications)
 
 # Welcome to Atomic Warfare
 Atomic Warfare is a comprehensive Wabbajack modlist that focuses on improving over the Vanilla Fallout 4 with better mechanics, additional content to explore, and an overall immersive experience.
