@@ -9,16 +9,16 @@
     ],
     "game": "fallout4",
     "tags": [
-      "overhaul",
-      "immersive",
-      "lore-friendly"
+      "Overhaul",
+      "Immersive",
+      "Lore-Friendly"
     ],
     "nsfw": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://media.nexusmods.com/0/5/050bfcd8-b65e-49f6-9cc2-68b44e7ba415.png",
+      "image": "https://staticdelivery.nexusmods.com/mods/1151/images/54871/54871-1633918095-1023563905.png",
       "readme": "https://github.com/Rage-GitHub/Atomic-Warfare/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Atomic%20Warfare.wabbajack_0cc9193c-ca31-43dd-a891-655cecf4c739",
       "machineURL": "Atomic_Warfare",
