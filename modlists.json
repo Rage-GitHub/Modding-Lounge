@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Atomic Warfare",
+    "description": "An immersive and lore-friendly modlist.",
+    "author": "Rage",
+    "maintainers": [
+      "github/Rage-GitHub"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "overhaul",
+      "immersive",
+      "lore-friendly"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://media.nexusmods.com/0/5/050bfcd8-b65e-49f6-9cc2-68b44e7ba415.png",
+      "readme": "https://github.com/Rage-GitHub/Atomic-Warfare/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Atomic%20Warfare.wabbajack_0cc9193c-ca31-43dd-a891-655cecf4c739",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.gg/DfFYJtt8p4"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "qQGRc1b7iHI=",
+      "Size": 2316435266,
+      "NumberOfArchives": 229,
+      "SizeOfArchives": 103071598898,
+      "NumberOfInstalledFiles": 27181,
+      "SizeOfInstalledFiles": 119598317913
+    },
+    "version": "1.0.0"
+  }
+]
