@@ -36,16 +36,20 @@ I've been tweaking and making necessary changes to optimize Fallout 4 to the bes
 ## Other Things to Note
 I'm looking for comparisons on other systems to see how well the game runs, so I can manage and fine-tweak more settings to help the majority of users. Share your Specs, average framerates and locations of specific areas hurting your FPS in the discussions tab.
 
-### Best practices
+### Optional Mods
+- Fallout 4 HD Overhaul by Luxor
+  - Optionally, disable all of the `Fallout4 - Texture#` and `DLC[DLC] - Textures` mods in the left pane of MO2 if you can not or choose not to use it. Note that FO4LODGen has resources generated with these textures, so you will need to disable and generate your own LOD files.
+
+### Best Practices
 - Avoid from editing the modlist too much, everything is changed for a reason. If you choose to edit it, support is not provided and you will be ignored.
 
 # Prerequisites Before Beginning
 Modlists from Wabbajack generally require a clean installation of Fallout 4 and no mods installed whatsoever. For this reason, before you install anything, perform a clean installation of Fallout 4. To do so, follow these steps:
 
-Locate your games directory, right-click the game folder and hit delete
-Navigate to Documents > MyGames and delete the Fallout4 folder
-Go back to your launcher, then reinstall Fallout 4.
-Once it's installed, boot the game up and let the launcher load default values
+1. Locate your games directory, right-click the game folder and hit delete
+2. Navigate to Documents > MyGames and delete the Fallout4 folder
+3. Go back to your launcher, then reinstall Fallout 4.
+4. Once it's installed, boot the game up and let the launcher load default values
 
 It is highly recommended, if at all, required for you to install Fallout 4 outside of your C: drive and somewhere on another drive like an SSD or M.2. This will substantially help in load times, file redundancy and generally good practices.
 
