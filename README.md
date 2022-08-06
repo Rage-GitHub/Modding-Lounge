@@ -1,15 +1,27 @@
-# Welcome to Atomic Warfare
-Atomic Warfare is a comprehensive modlist that focuses on improving over the Vanilla Fallout 4 with better mechanics, additional content to explore, and an overall immersive experience.
+# Table of Contents
+1. Welcome to Atomic Warfare
+    - Main Takeaways
+      - Quests and Adventures
+      - Noticeable Features
+    - Other Things to Notes
+2. Prerequisites Before Beginning
+    - Installing the Modlist via Wabbajack
+3. Hardware Specifications
+    - Minimum Specifications
+    - Personal Specifications
 
-## | Main Takeaways
+# Welcome to Atomic Warfare
+Atomic Warfare is a comprehensive Wabbajack modlist that focuses on improving over the Vanilla Fallout 4 with better mechanics, additional content to explore, and an overall immersive experience.
+
+## Main Takeaways
 Atomic Warfare provides an overall balanced and fair content to performance ratio, allowing for a wide variety of visuals to appear while also not sacrificing your FPS to the FPS Gods. With this, a lot of really great and popular Quest mods, such Fourville, Old Time Religion, Point Lookout and more have been featured within this Collection.
 
 ### Quests and Adventures
 - Fourville
+- Fallout 4: Point Lookout
 - Miami Misadventures: Episode 1
 - Nuka World Plus
 - Old Time Religion
-- Fallout 4: Point Lookout
 - Tales from the Commonwealth (And it's Addons)
 
 ### Noticeable Features
@@ -21,12 +33,8 @@ Atomic Warfare provides an overall balanced and fair content to performance rati
 
 I've been tweaking and making necessary changes to optimize Fallout 4 to the best of it's capability, while retaining fidelity to offer the best visual to performance ratio. An example of Downtown Boston, near Goodneighbor, which is usually the most taxing location can be seen in the media.
 
-## | Other Things to Note
+## Other Things to Note
 I'm looking for comparisons on other systems to see how well the game runs, so I can manage and fine-tweak more settings to help the majority of users. Share your Specs, average framerates and locations of specific areas hurting your FPS in the discussions tab.
-
-## | Requirements
-- Clean Fallout 4 Install﻿
-- FO4Edit
 
 ### Best practices
 - Avoid from editing the modlist too much, everything is changed for a reason. If you choose to edit it, support is not provided and you will be ignored.
@@ -41,7 +49,7 @@ Once it's installed, boot the game up and let the launcher load default values
 
 It is highly recommended, if at all, required for you to install Fallout 4 outside of your C: drive and somewhere on another drive like an SSD or M.2. This will substantially help in load times, file redundancy and generally good practices.
 
-## | Installing the Modlist via Wabbajack
+## Installing the Modlist via Wabbajack
 Now that you've performed a clean install for Fallout 4 and generated all of the necessary files, it's time to install the modlist itself. 
 
 To begin, go to the a new drive location, I.E. the base directory for a drive, create a new folder and call it whatever you please, Wabbajack ideally. Inside of that folder, download the Wabbajack tool itself and run it inside of that folder. Create a new folder inside of the Wabbajack directory and call it Modlists.
@@ -61,18 +69,16 @@ Now, launch Wabbajack and download the Wabbajack file from the Files tab on Nexu
 # Hardware Specifications
 Ideally, you want a computer with a great CPU and lots of VRAM, if you choose to run lots of texture mods. Fallout 4 will occasionally take up a lot of GPU and CPU so anything that's at least these recommended specs or above should compute. For a referenced setup from what I am running this collection on, see the Personal Specifications section below.
 
-#### | Minimum Specifications
-GPU
-- NVIDIA GeForce GTX 1660Ti 
-RAM
-- 8GB DDR4
-CPU
-- AMD Ryzen 5 2600X 6-Core
+### Minimum Specifications
+| Type | Hardware |
+| --- | --- |
+| GPU | NVIDIA GeForce GTX 1660Ti  |
+| CPU | AMD Ryzen 5 2600X 6-Core |
+| RAM | 8GB DDR4 |
 
-### | Personal Specifications
-GPU
-- NVIDIA GeForce RTX 3070Ti
-RAM
-- Corsair Vengeance RGB PRO 32GB DDR4
-CPU
-- AMD Ryzen 9 5900X 12-Core
+### Personal Specifications
+| Type | Hardware |
+| --- | --- |
+| GPU | NVIDIA GeForce RTX 3070Ti |
+| CPU | AMD Ryzen 9 5900X 12-Core |
+| RAM | Corsair Vengeance RGB PRO 32GB DDR4 |
