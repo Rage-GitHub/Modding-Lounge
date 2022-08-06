@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Atomic Warfare",
-    "description": "An immersive and lore-friendly modlist.",
+    "description": "The most immersive, yet compromibsle Fallout 4 modding experience. Atomic Warfare is the feat of modding for Fallout 4, offering a truly pleasant modded experience ranging from hundreds of mods to hundreds of hours of new content and quests to explore. While avoiding the compromise for performance to mods, Atomic Warfare provides both performance optimization and a plethora of content.",
     "author": "Rage",
     "maintainers": [
       "github/Rage-GitHub"
@@ -18,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://staticdelivery.nexusmods.com/mods/1151/images/54871/54871-1633918095-1023563905.png",
+      "image": "https://raw.githubusercontent.com/Rage-GitHub/Atomic-Warfare/main/Atomic%20Warfare%20Logo.png",
       "readme": "https://github.com/Rage-GitHub/Atomic-Warfare/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Atomic%20Warfare.wabbajack_0cc9193c-ca31-43dd-a891-655cecf4c739",
       "machineURL": "Atomic_Warfare",
