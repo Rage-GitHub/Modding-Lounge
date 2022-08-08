@@ -58,7 +58,7 @@ It is highly recommended, if at all, required for you to install Fallout 4 outsi
 ## Installing the Modlist via Wabbajack
 Now that you've performed a clean install for Fallout 4 and generated all of the necessary files, it's time to install the modlist itself. 
 
-To begin, go to the a new drive location, I.E. the base directory for a drive, create a new folder and call it whatever you please, Wabbajack ideally. Inside of that folder, download the Wabbajack tool itself and run it inside of that folder. Create a new folder inside of the Wabbajack directory and call it Modlists.
+To begin, go to the a new drive location (Same location to where Fallout 4 is installed), I.E. the base directory for a drive, create a new folder and call it whatever you please, Wabbajack ideally. Inside of that folder, download the Wabbajack tool itself and run it inside of that folder. Create a new folder inside of the Wabbajack directory and call it Modlists.
 
 The folder structure should look as follows:
 
