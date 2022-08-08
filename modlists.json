@@ -8,31 +8,34 @@
       "github/Rage-GitHub"
     ],
     "game": "fallout4",
+    "official": false,
     "tags": [
       "Overhaul",
       "Immersive",
       "Lore-Friendly"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Atomic-Warfare/main/Atomic%20Warfare%20Logo.png",
       "readme": "https://github.com/Rage-GitHub/Atomic-Warfare/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Atomic%20Warfare.wabbajack_0cc9193c-ca31-43dd-a891-655cecf4c739",
+      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_a4a91c97-7b54-4729-b39a-e2ccf77b525c",
       "machineURL": "Atomic_Warfare",
       "discordURL": "https://discord.gg/DfFYJtt8p4"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "qQGRc1b7iHI=",
-      "Size": 2316435266,
-      "NumberOfArchives": 229,
-      "SizeOfArchives": 103071598898,
-      "NumberOfInstalledFiles": 27181,
-      "SizeOfInstalledFiles": 119598317913
+      "Hash": "aSJeud8tBg0=",
+      "Size": 2041330609,
+      "NumberOfArchives": 234,
+      "SizeOfArchives": 105703737254,
+      "NumberOfInstalledFiles": 26813,
+      "SizeOfInstalledFiles": 118834107777
     },
-    "version": "1.0.0"
+    "version": "1.1.0",
+    "RepositoryName": ""
   }
 ]
