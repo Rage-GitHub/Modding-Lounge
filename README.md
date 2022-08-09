@@ -15,6 +15,8 @@
 # Welcome to Atomic Warfare
 Atomic Warfare is a comprehensive Wabbajack modlist that focuses on improving over the Vanilla Fallout 4 with better mechanics, additional content to explore, and an overall immersive experience.
 
+For any current issues, please read the [Known Issues.md](known_issues.md) file.
+
 ## Main Takeaways
 Atomic Warfare provides an overall balanced and fair content to performance ratio, allowing for a wide variety of visuals to appear while also not sacrificing your FPS to the FPS Gods. With this, a lot of really great and popular Quest mods, such Fourville, Old Time Religion, Point Lookout and more have been featured within this Collection.
 
