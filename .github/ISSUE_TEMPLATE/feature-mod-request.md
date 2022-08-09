@@ -2,7 +2,7 @@
 name: Feature/Mod Request
 about: Got an awesome mod/feature to share? Make a submission!
 title: "[REQUEST]"
-labels: ''
+labels: New Request
 assignees: Rage-GitHub
 
 ---
