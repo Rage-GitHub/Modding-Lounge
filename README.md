@@ -4,10 +4,11 @@
       - [Quests and Adventures](https://github.com/Rage-GitHub/Atomic-Warfare#quests-and-adventures)
       - [Noticeable Features](https://github.com/Rage-GitHub/Atomic-Warfare#noticeable-features)
     - [Other Things to Notes](https://github.com/Rage-GitHub/Atomic-Warfare#other-things-to-note)
-      - [Optional Mods](https://github.com/Rage-GitHub/Atomic-Warfare#optional-mods)
       - [Best Practices](https://github.com/Rage-GitHub/Atomic-Warfare#best-practices)
 2. [Prerequisites Before Beginning](https://github.com/Rage-GitHub/Atomic-Warfare#prerequisites-before-beginning)
     - [Installing the Modlist via Wabbajack](https://github.com/Rage-GitHub/Atomic-Warfare#installing-the-modlist-via-wabbajack)
+    - [Changing INI Core Count Variable](https://github.com/Rage-GitHub/Atomic-Warfare#changing-ini-core-count-variable)
+    - [Enabling/Disabling Optional Mods](https://github.com/Rage-GitHub/Atomic-Warfare#enabling-/-disabling-optional-mods)
 3. [In-Game Settings](https://github.com/Rage-GitHub/Atomic-Warfare#in-game-setings)
     - [MCM Settings Manager](https://github.com/Rage-GitHub/Atomic-Warfare#mcm-settings-manager)
 4. [Hardware Specifications](https://github.com/Rage-GitHub/Atomic-Warfare#hardware-specifications)
@@ -88,6 +89,18 @@ Now, launch Wabbajack and download the Wabbajack file from the Files tab on Nexu
 There is a core count variable called `iNumHWThreads=6` set within the **Fallout4Custom.ini** file under the `[General]` section. Change this value to the amount of PHYSICAL cores your have, I.E. if it's a 6 Core 12 Thread CPU, you set the value to 6 and not 12. 
 
 This can help accelerate script loading as well as rendering assets needed rendered from the GPU, allowing for more optimal performance.
+
+### Enabling/Disabling Optional Mods
+Some mods within this modlist aren't entirely required, but recommended to fit with the modlist style. However, if these mods don't fit your needs or wants, you can simply disable them.
+
+Find below the list of optional mods you can disable below:
+- Fallout 4 HD Overhaul (Separate Wabbajack File for Avoiding This Download)
+- FallUI Collection (If you disable the Item Sorter mod, disable the Inventory one as well)
+- LC and CC Texture Mods (No need to rebuild LODs or anything, just disable them)
+- LevelUpMenuEx
+- PipBoyTabs
+- Thaylar's Armor and Clothing Enhanced
+- Uneducated Shooter (Disable within Mod Organizer)
 
 # In-Game Settings
 ### MCM Settings Manager
