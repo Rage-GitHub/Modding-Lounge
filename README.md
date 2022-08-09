@@ -8,12 +8,19 @@
       - [Best Practices](https://github.com/Rage-GitHub/Atomic-Warfare#best-practices)
 2. [Prerequisites Before Beginning](https://github.com/Rage-GitHub/Atomic-Warfare#prerequisites-before-beginning)
     - [Installing the Modlist via Wabbajack](https://github.com/Rage-GitHub/Atomic-Warfare#installing-the-modlist-via-wabbajack)
-3. [Hardware Specifications](https://github.com/Rage-GitHub/Atomic-Warfare#hardware-specifications)
+3. [In-Game Settings](https://github.com/Rage-GitHub/Atomic-Warfare#in-game-setings)
+    - [MCM Settings Manager](https://github.com/Rage-GitHub/Atomic-Warfare#mcm-settings-manager)
+4. [Hardware Specifications](https://github.com/Rage-GitHub/Atomic-Warfare#hardware-specifications)
     - [Minimum Specifications](https://github.com/Rage-GitHub/Atomic-Warfare#minimum-specifications)
     - [Personal Specifications](https://github.com/Rage-GitHub/Atomic-Warfare#personal-specifications)
 
 # Welcome to Atomic Warfare
-Atomic Warfare is a comprehensive Wabbajack modlist that focuses on improving over the Vanilla Fallout 4 with better mechanics, additional content to explore, and an overall immersive experience.
+
+Atomic Warfare is a comprehensive modlist that focuses on improving over the Vanilla Fallout 4 with better mechanics, additional content to explore, and an overall immersive experience.
+
+For support and live chat, visit my [personal Discord](http://discord.gg/fEBJYFnKsp). You can also find me actively messaging and maintaining more information there about the modlist and other mods I have available.
+
+For known issues and progress, visit the GitHub [Known Issues.md](https://github.com/Rage-GitHub/Atomic-Warfare/blob/main/known_issues.md) file. Report any issues via the [GitHub page](https://github.com/Rage-GitHub/Atomic-Warfare/issues) using the **Bug Report** template provided.
 
 For any current issues, please read the [Known Issues.md](known_issues.md) file.
 
@@ -40,24 +47,27 @@ I've been tweaking and making necessary changes to optimize Fallout 4 to the bes
 ## Other Things to Note
 I'm looking for comparisons on other systems to see how well the game runs, so I can manage and fine-tweak more settings to help the majority of users. Share your Specs, average framerates and locations of specific areas hurting your FPS in the discussions tab.
 
-### Optional Mods
-- Fallout 4 HD Overhaul by Luxor
-  - Optionally, disable all of the `Fallout4 - Texture#` and `DLC[DLC] - Textures` mods in the left pane of MO2 if you can not or choose not to use it. Note that FO4LODGen has resources generated with these textures, so you will need to disable and generate your own LOD files.
+### Requirements
+- Clean Fallout 4 Install
+- All Fallout 4 DLC
+- FO4Edit
 
-### Best Practices
-- Avoid from editing the modlist too much, everything is changed for a reason. If you choose to edit it, support is not provided and you will be ignored.
+### Best practices
+Avoid from editing the modlist too much, everything is changed for a reason. If you choose to edit it, support is not provided and you will be ignored.
 
 # Prerequisites Before Beginning
+
+### Cleaning Game Files
 Modlists from Wabbajack generally require a clean installation of Fallout 4 and no mods installed whatsoever. For this reason, before you install anything, perform a clean installation of Fallout 4. To do so, follow these steps:
 
-1. Locate your games directory, right-click the game folder and hit delete
-2. Navigate to Documents > MyGames and delete the Fallout4 folder
-3. Go back to your launcher, then reinstall Fallout 4.
-4. Once it's installed, boot the game up and let the launcher load default values
+Locate your games directory, right-click the game folder and hit delete
+Navigate to Documents > MyGames and delete the Fallout4 folder
+Go back to your launcher, then reinstall Fallout 4.
+Once it's installed, boot the game up and let the launcher load default values
 
 It is highly recommended, if at all, required for you to install Fallout 4 outside of your C: drive and somewhere on another drive like an SSD or M.2. This will substantially help in load times, file redundancy and generally good practices.
 
-## Installing the Modlist via Wabbajack
+### Installing the Modlist via Wabbajack
 Now that you've performed a clean install for Fallout 4 and generated all of the necessary files, it's time to install the modlist itself. 
 
 To begin, go to the a new drive location (Same location to where Fallout 4 is installed), I.E. the base directory for a drive, create a new folder and call it whatever you please, Wabbajack ideally. Inside of that folder, download the Wabbajack tool itself and run it inside of that folder. Create a new folder inside of the Wabbajack directory and call it Modlists.
@@ -74,7 +84,21 @@ The folder structure should look as follows:
 
 Now, launch Wabbajack and download the Wabbajack file from the Files tab on Nexus and click the Install From Drive button in Wabbajack. Locate the Wabbajack file and click open. Choose the install location inside of the Modlists folder you created above earlier. You can specify the download location for the wabbajack mods to install to another location if you choose. Once finished, hit the button to the right and it will begin downloading everything needed.
 
+### Changing INI Core Count Variable
+There is a core count variable called `iNumHWThreads=6` set within the **Fallout4Custom.ini** file under the `[General]` section. Change this value to the amount of PHYSICAL cores your have, I.E. if it's a 6 Core 12 Thread CPU, you set the value to 6 and not 12. 
+
+This can help accelerate script loading as well as rendering assets needed rendered from the GPU, allowing for more optimal performance.
+
+# In-Game Settings
+### MCM Settings Manager
+With the Modlist comes a prepared MCM Settings file, allowing you to use the already configured options for many of the mods in the MCM to fit the Modlist even more.
+
+To use these settings, simply navigate to the Mod Configuration Menu and then go to MCM Settings Manager. Find the Atomic Warfare option, then click Apply. Close out of the MCM menu, save the game and reload that save.
+
+If you choose to not use these settings, just note that some mods are intentionally edited for the sole purpose of conflicts such as An76 and Wasteland Ballistics.
+
 # Hardware Specifications
+
 Ideally, you want a computer with a great CPU and lots of VRAM, if you choose to run lots of texture mods. Fallout 4 will occasionally take up a lot of GPU and CPU so anything that's at least these recommended specs or above should compute. For a referenced setup from what I am running this collection on, see the Personal Specifications section below.
 
 ### Minimum Specifications
