@@ -48,6 +48,8 @@ I've been tweaking and making necessary changes to optimize Fallout 4 to the bes
 ## Other Things to Note
 I'm looking for comparisons on other systems to see how well the game runs, so I can manage and fine-tweak more settings to help the majority of users. Share your Specs, average framerates and locations of specific areas hurting your FPS in the discussions tab.
 
+Regarding Undeducated Shooter, the mod utilizes the Q and E button, meaning E is overriden by the mod which you will have to rebind the Activate button to something else like F.
+
 ### Requirements
 - Clean Fallout 4 Install
 - All Fallout 4 DLC
