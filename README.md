@@ -8,6 +8,7 @@
 2. [Prerequisites Before Beginning](https://github.com/Rage-GitHub/Atomic-Warfare#prerequisites-before-beginning)
     - [Installing the Modlist via Wabbajack](https://github.com/Rage-GitHub/Atomic-Warfare#installing-the-modlist-via-wabbajack)
     - [Changing INI Core Count Variable](https://github.com/Rage-GitHub/Atomic-Warfare#changing-ini-core-count-variable)
+    - [Optimizing INIs to Your Hardware](https://github.com/Rage-GitHub/Atomic-Warfare#optimizing-inis-to-your-hardware)
     - [Enabling/Disabling Optional Mods](https://github.com/Rage-GitHub/Atomic-Warfare#enabling-/-disabling-optional-mods)
 3. [In-Game Settings](https://github.com/Rage-GitHub/Atomic-Warfare#in-game-setings)
     - [MCM Settings Manager](https://github.com/Rage-GitHub/Atomic-Warfare#mcm-settings-manager)
