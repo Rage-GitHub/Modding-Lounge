@@ -112,6 +112,11 @@ To use these settings, simply navigate to the Mod Configuration Menu and then go
 
 If you choose to not use these settings, just note that some mods are intentionally edited for the sole purpose of conflicts such as An76 and Wasteland Ballistics.
 
+### Custom HUD Replacer
+With the modlist, comes provided my own custom made preset for FallUI HUD. It is, in my opinion, the best HUD preset there is that doesn't intrude too much on the necessary information and mechanics of the interface while providing an entirely new look. 
+
+There are two options for this HUD, a Hardcore mode, which removes things like reticles, enemy dots on the compass, ammo counter, etc. and then there is the default one which is everything but stylized how I designed the HUD to look.
+
 # Hardware Specifications
 
 Ideally, you want a computer with a great CPU and lots of VRAM, if you choose to run lots of texture mods. Fallout 4 will occasionally take up a lot of GPU and CPU so anything that's at least these recommended specs or above should compute. For a referenced setup from what I am running this collection on, see the Personal Specifications section below.
