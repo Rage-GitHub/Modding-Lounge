@@ -53,7 +53,8 @@ Regarding Undeducated Shooter, the mod utilizes the Q and E button, meaning E is
 ### Requirements
 - Clean Fallout 4 Install
 - All Fallout 4 DLC
-- FO4Edit
+- [FO4Edit](https://www.nexusmods.com/fallout4/mods/2737/?tab=files)
+- [BethINI](https://www.nexusmods.com/fallout4/mods/2737/?tab=files)
 
 ### Best practices
 Avoid from editing the modlist too much, everything is changed for a reason. If you choose to edit it, support is not provided and you will be ignored.
@@ -91,6 +92,39 @@ Now, launch Wabbajack and download the Wabbajack file from the Files tab on Nexu
 There is a core count variable called `iNumHWThreads=6` set within the **Fallout4Custom.ini** file under the `[General]` section. Change this value to the amount of PHYSICAL cores your have, I.E. if it's a 6 Core 12 Thread CPU, you set the value to 6 and not 12. 
 
 This can help accelerate script loading as well as rendering assets needed rendered from the GPU, allowing for more optimal performance.
+
+### Optimizing INIs to Your Hardware
+Generally, INIs are shipped with predefined variables. For this case, the modlist is shipped with the High preset defined by BethINI. This can be changed if you can not run the BethINI High preset. 
+
+With Mod Organizer closed, launch open BethINI. In the setup tab, make sure all of the locations are pointed to the correct directory, I.E. the INI path to your **Documents > MyGames > Fallout4** folder. 
+
+In BethINI, set the resolution to your current display's resolution, choose the Preset given by default when you launch the Fallout 4 Launcher, and hit Recommended Tweaks. Save and Exit.
+
+Make sure that in the Fallout4Custom.ini, which can be edited from Mod Organizer using the INI Editor in the Puzzle Piece Dropdown, that these values match as follows:
+
+```
+[Decals]
+bDecals=1
+bSkinnedDecals=1
+uMaxSkinDecalPerActor=5
+uMaxSkinDecals=10
+
+[Display]
+bDynamicObjectQueryManager=1 
+bMultiThreadedRendering=1 
+bMultiThreadedAccumulation=1 
+bMultiThreadedRenderingUNP=1
+fSAOBias=0.6
+fSAOIntensity=7.1
+fSAORadius=108.2
+
+[General]
+iTextureDegradeDistance0=1600
+iTextureDegradeDistance1=3000
+iTextureUpgradeDistance0=1200
+iTextureUpgradeDistance1=2400
+sStartingConsoleCommand=bat stealth;bat godrays;bat cl
+```
 
 ### Enabling/Disabling Optional Mods
 Some mods within this modlist aren't entirely required, but recommended to fit with the modlist style. However, if these mods don't fit your needs or wants, you can simply disable them.
