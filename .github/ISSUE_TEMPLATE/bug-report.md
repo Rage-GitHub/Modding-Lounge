@@ -38,5 +38,8 @@ assignees: Rage-GitHub
 
 **Is Your Game Installation Outside of Protected Folders, I.E. Program Files (x86)?**
 <sup>Select Only One Option, I.E. fill [ ] with an X</sup>
-[ ] Yes, it's installed in the same drive
-[ ] No, it's installed on a different drive
+[ ] Yes, it's installed outside of a protected folder
+[ ] No, it's not installed outside of a protected folder
+
+**What Are Your PC Specs?**
+<sup>Can be acquired through Task Manager in the Performance Tab</sup>
