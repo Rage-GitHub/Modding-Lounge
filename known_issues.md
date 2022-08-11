@@ -8,12 +8,10 @@ For any other issues regarding the Modlist that are not already listed, please r
 
 ## Planned
 
-- Screen flashbanging on initial save startup, I.E. your screen will gradually grow brighter and audio bugs out (Can be fixed by reloading the save)
-  - Temporary solution is to pause the game, save, exit to main menu then reload that save.
-
 ## Looking At
 
--
+- Screen flashbanging on initial save startup, I.E. your screen will gradually grow brighter and audio bugs out (Can be fixed by reloading the save)
+  - Temporary solution is to pause the game, save, exit to main menu then reload that save.
 
 ## Fixed
 
