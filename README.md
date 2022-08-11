@@ -1,30 +1,22 @@
 # Atomic Warfare Wiki
 
-### [Main Takeaways](https://github.com/Rage-GitHub/Atomic-Warfare/wiki#main-takeaways)
-
----
+## [Main Takeaways](https://github.com/Rage-GitHub/Atomic-Warfare/wiki#main-takeaways)
 
 - [Quests and Adventures](https://github.com/Rage-GitHub/Atomic-Warfare/wiki#quests-and-adventures)
 - [Noticeable Features](https://github.com/Rage-GitHub/Atomic-Warfare/wiki#noticeable-features)
 
-### Hardware Specifications
-
----
+## [Hardware Specifications](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Hardware-Specifications)
 
 - [Minimum Specifications](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Hardware-Specifications#minimum-specifications)
 - [Personal Specifications](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Hardware-Specifications#personal-specifications)
 
----
-
-### [Requirements and Important Notes](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Requirements-and-Important-Notes)
+## [Requirements and Important Notes](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Requirements-and-Important-Notes)
 
 - [Requirements](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Requirements-and-Important-Notes#requirements)
 - [Other Things to Note](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Requirements-and-Important-Notes#other-things-to-note)
   - [Best Practices](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Requirements-and-Important-Notes#best-practices)
 
----
-
-### [Prerequisities Before Beginning](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Prerequisities-Before-Beginning)
+## [Prerequisities Before Beginning](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Prerequisities-Before-Beginning)
 
 - [Cleaning Game Files](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Prerequisities-Before-Beginning#cleaning-game-files)
 - [Installing the Modlist via Wabbajack](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Prerequisities-Before-Beginning#installing-the-modlist-via-wabbajack)
@@ -33,6 +25,7 @@
 - [Enabling/Disabling Optional Mods](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Prerequisities-Before-Beginning#enablingdisabling-optional-mods)
   - [Installing Fallout 4 HD Overhaul by Luxor](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Prerequisities-Before-Beginning#installing-fallout-4-hd-overhaul-by-luxor)
     - [Generating LOD Files](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Prerequisities-Before-Beginning#generating-lod-files)
+
 
 ## Welcome to Atomic Warfare
 
