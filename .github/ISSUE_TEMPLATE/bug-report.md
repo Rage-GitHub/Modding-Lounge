@@ -19,6 +19,9 @@ assignees: Rage-GitHub
 - [ ] Yes, I've edited it somewhat
 - [ ] Yes, I've made significant changes to the modlist
 
+### If you've made changes, what mods/changes have you added/removed?
+*insert a list here of the changes you've made*
+
 ## Were You Able to Replicate This Issue?
 <sup>Select Only One Option, I.E. fill [ ] with an X</sup>
 - [ ] Yes, I've successfully replicated the issue
