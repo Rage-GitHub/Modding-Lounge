@@ -6,9 +6,6 @@ For any other issues regarding the Modlist that are not already listed, please r
 
 ## In-Progress
 
-
-  - Ocassionally caused by the Modlist not being installed on the same drive as Fallotu 4.
-
 ## Planned
 
 - Screen flashbanging on initial save startup, I.E. your screen will gradually grow brighter and audio bugs out (Can be fixed by reloading the save)
