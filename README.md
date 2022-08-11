@@ -1,11 +1,11 @@
 # Atomic Warfare Wiki
 
-### [Main Takeaways](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Introductory#main-takeaways)
+### [Main Takeaways](https://github.com/Rage-GitHub/Atomic-Warfare/wiki#main-takeaways)
 
 ---
 
-- [Quests and Adventures](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Introductory#quests-and-adventures)
-- [Noticeable Features](https://github.com/Rage-GitHub/Atomic-Warfare/wiki/Introductory#noticeable-features)
+- [Quests and Adventures](https://github.com/Rage-GitHub/Atomic-Warfare/wiki#quests-and-adventures)
+- [Noticeable Features](https://github.com/Rage-GitHub/Atomic-Warfare/wiki#noticeable-features)
 
 ### Hardware Specifications
 
