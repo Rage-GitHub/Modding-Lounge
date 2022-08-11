@@ -20,7 +20,11 @@ For any other issues regarding the Modlist that are not already listed, please r
 
 ## Fixed
 
-- Implementing in 1.2.0
+- General Issues Fixed
+  - [#2](https://github.com/Rage-GitHub/Atomic-Warfare/issues/2#issuecomment-1211060096) Widescreen users utilizing the LevelUpMenuEx mod can not use [TRUBY9 Ultrawide](https://www.nexusmods.com/fallout4/mods/24630) as it will cause crashes
+    - Simply avoid the use of a Widescreen mod for now, or expiriment and use a different Widescreen mod.
+
+- Implemented in 1.2.0
   - Missing/Broken textures in Concord Museum resulting in combining or completely gone textures
   - Micro stuttering when wandering around randomly, causing huge influxes in the FPS.
     - Potentially fixed, please revise and report back if the issue persists.
