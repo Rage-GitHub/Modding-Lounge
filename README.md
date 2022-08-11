@@ -46,6 +46,8 @@ Atomic Warfare provides an overall balanced and fair content to performance rati
 
 I've been tweaking and making necessary changes to optimize Fallout 4 to the best of it's capability, while retaining fidelity to offer the best visual to performance ratio. An example of Downtown Boston, near Goodneighbor, which is usually the most taxing location can be seen in the media.
 
+For the full list of mods and files included within the Modlist, visit the [Wabbajack Archive List](https://www.wabbajack.org/search/AtomicWarfare/Atomic_Warfare) page.
+
 ## Other Things to Note
 I'm looking for comparisons on other systems to see how well the game runs, so I can manage and fine-tweak more settings to help the majority of users. Share your Specs, average framerates and locations of specific areas hurting your FPS in the discussions tab.
 
