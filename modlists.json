@@ -22,20 +22,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Atomic-Warfare/main/Atomic%20Warfare%20Logo.png",
       "readme": "https://github.com/Rage-GitHub/Atomic-Warfare/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_5274df5b-b92f-4e68-a72f-843a9c77abba",
+      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_36aa568c-c211-45c3-aae0-0500bef764c6",
       "machineURL": "Atomic_Warfare",
       "discordURL": "https://discord.gg/DfFYJtt8p4"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "PUj+pL2kuVg=",
-      "Size": 1449176094,
-      "NumberOfArchives": 230,
-      "SizeOfArchives": 35016377756,
-      "NumberOfInstalledFiles": 25649,
-      "SizeOfInstalledFiles": 43404333107
+      "Hash": "Zl81MKhhgl4=",
+      "Size": 1449148345,
+      "NumberOfArchives": 240,
+      "SizeOfArchives": 35703297397,
+      "NumberOfInstalledFiles": 25686,
+      "SizeOfInstalledFiles": 44096515508
     },
-    "version": "1.2.0",
+    "version": "1.2.1",
     "RepositoryName": ""
   }
 ]
