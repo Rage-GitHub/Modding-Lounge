@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Atomic Warfare",
     "description": "The most immersive, yet compromisible Fallout 4 modding experience. Atomic Warfare is the feat of modding for Fallout 4, offering a truly pleasant modded experience ranging from hundreds of mods to hundreds of hours of new content and quests to explore. \n\nVisit the GitHub wiki for more installation and information.",
     "author": "Rage",
@@ -19,23 +18,23 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Atomic-Warfare/main/Atomic%20Warfare%20Logo.png",
       "readme": "https://github.com/Rage-GitHub/Atomic-Warfare/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_458d18f8-5f3c-4b05-b891-7e1613f4a684",
+      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_7cd5d9b7-586f-4ccb-b914-77427fefb2a1",
       "machineURL": "Atomic_Warfare",
       "discordURL": "https://discord.gg/DfFYJtt8p4"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "kZdOlyf6obs=",
-      "Size": 1473369449,
-      "NumberOfArchives": 288,
-      "SizeOfArchives": 38115006992,
-      "NumberOfInstalledFiles": 25666,
-      "SizeOfInstalledFiles": 46897502916
+      "Hash": "FqJVj2yrFlI=",
+      "Size": 114773558,
+      "NumberOfArchives": 299,
+      "SizeOfArchives": 39660577115,
+      "NumberOfInstalledFiles": 25480,
+      "SizeOfInstalledFiles": 47156446840
     },
-    "version": "1.6.0",
-    "RepositoryName": ""
+    "version": "1.7.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-09-20T05:10:38.2405758Z",
+    "repositoryName": ""
   }
 ]
