@@ -11,7 +11,9 @@
     "tags": [
       "Overhaul",
       "Immersive",
-      "Lore-Friendly"
+      "Lore-Friendly",
+      "MAIM",
+      ""
     ],
     "nsfw": false,
     "utility_list": false,
@@ -19,7 +21,7 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Atomic-Warfare/main/Atomic%20Warfare%20Logo.png",
-      "readme": "https://github.com/Rage-GitHub/Atomic-Warfare/blob/main/README.md",
+      "readme": "https://moddinglounge.notion.site/Atomic-Warfare-d45c172b464d423ebb9dc00a02c0076a",
       "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_425ebf48-5234-490a-acef-cace783641f6",
       "machineURL": "Atomic_Warfare",
       "discordURL": "https://discord.gg/DfFYJtt8p4"
