@@ -24,7 +24,7 @@
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Atomic-Warfare/main/Atomic%20Warfare%20Logo.png",
       "readme": "https://moddinglounge.notion.site/Atomic-Warfare-d45c172b464d423ebb9dc00a02c0076a",
       "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_b8fd8353-8c70-4c12-98dd-e2a1fe9ab5e8",
-      "machineURL": "Atomic_Warfare",
+      "machineURL": "Atomic-Warfare",
       "discordURL": "https://discord.gg/DfFYJtt8p4"
     },
     "download_metadata": {
@@ -39,5 +39,88 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2022-10-05T04:01:52.6760789Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Fable Lore",
+    "description": "An Anniversary Edition based Modlist, with modernizing combat, a survival focus, lore and content expansion, and more than 4 new major DLC-mods to explore. Maintained to be lightweight, small and non-ENB, this list is perfect for any user looking for an expanded version of Skyrim.\n\nFor more information, visit the GitHub wiki.",
+    "author": "Rage",
+    "maintainers": [
+      "github/Rage-GitHub"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Lore-Friendly",
+      "CGO",
+      "EnaiRim",
+      "Shadow of Skyrim",
+      "Lightweight",
+      "LotD",
+      "Survival"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Rage-GitHub/Fable-Lore/main/Fable%20Lore%20Logo%20-%20GitHub.png",
+      "readme": "https://raw.githubusercontent.com/Rage-GitHub/Fable-Lore/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Fable Lore.wabbajack_3efe8cf8-07c3-4ace-a6d5-0a99913b7a20",
+      "machineURL": "Fable-Lore",
+      "discordURL": "https://discord.gg/DfFYJtt8p4"
+    },
+    "download_metadata": {
+      "Hash": "hrYwzYv6AwQ=",
+      "Size": 118543523,
+      "NumberOfArchives": 528,
+      "SizeOfArchives": 66627861353,
+      "NumberOfInstalledFiles": 76836,
+      "SizeOfInstalledFiles": 83381149040
+    },
+    "version": "1.10.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-09-24T10:21:15.6105556Z",
+    "repositoryName": ""
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Cyber Runner",
+    "description": "A Cyberpunk 2077 QoL Modlist focusing on improving over the base games mechanics, such as police chases, penthouses to buy, improved relationships, more immersive locations, etc., without being too intrusive on the base game.",
+    "author": "Rage",
+    "maintainers": [
+      "github/Rage-GitHub"
+    ],
+    "game": "cyberpunk2077",
+    "official": true,
+    "tags": [
+      "Quality of Life",
+      "Romance Enhanced",
+      "Interactive NPCs",
+      "Immersive Locations",
+      "Improved Vehicles"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Rage-GitHub/Atomic-Warfare/main/Atomic%20Warfare%20Logo.png",
+      "readme": "https://github.com/Rage-GitHub/Atomic-Warfare/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_458d18f8-5f3c-4b05-b891-7e1613f4a684",
+      "machineURL": "Cyber-Runner",
+      "discordURL": "https://discord.gg/DfFYJtt8p4"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "1k+WWCfKvs0=",
+      "Size": 9228206,
+      "NumberOfArchives": 39,
+      "SizeOfArchives": 233899839,
+      "NumberOfInstalledFiles": 2113,
+      "SizeOfInstalledFiles": 478712637
+    },
+    "version": "0.2.0",
+    "RepositoryName": ""
   }
 ]
