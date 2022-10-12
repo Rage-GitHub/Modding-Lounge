@@ -21,7 +21,7 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Rage-GitHub/Atomic-Warfare/main/Atomic%20Warfare%20Logo.png",
+      "image": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Atomic%20Warfare/Atomic%20Warfare%20Logo.png?raw=true",
       "readme": "https://moddinglounge.notion.site/Atomic-Warfare-d45c172b464d423ebb9dc00a02c0076a",
       "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_b8fd8353-8c70-4c12-98dd-e2a1fe9ab5e8",
       "machineURL": "Atomic-Warfare",
@@ -63,7 +63,7 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Rage-GitHub/Fable-Lore/main/Fable%20Lore%20Logo%20-%20GitHub.png",
+      "image": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Fable%20Lore/Fable%20Lore%20Logo.png?raw=true",
       "readme": "https://moddinglounge.notion.site/Fable-Lore-1d9ea8a32a764b8793598bf417f28988",
       "download": "https://authored-files.wabbajack.org/Fable Lore.wabbajack_afd902a1-09e4-4bc1-8b70-a1738c0e932c",
       "machineURL": "Fable-Lore",
@@ -105,9 +105,9 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Rage-GitHub/Atomic-Warfare/main/Atomic%20Warfare%20Logo.png",
-      "readme": "https://github.com/Rage-GitHub/Atomic-Warfare/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_458d18f8-5f3c-4b05-b891-7e1613f4a684",
+      "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/Cyber%20Runner/Cyber%20Runner%20-%20Logo.png",
+      "readme": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Cyber Runner.wabbajack_5d96a98f-7d72-44c0-9cc9-b0f5d69d0989",
       "machineURL": "Cyber-Runner",
       "discordURL": "https://discord.gg/DfFYJtt8p4"
     },
