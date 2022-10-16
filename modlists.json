@@ -65,21 +65,21 @@
     "links": {
       "image": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Fable%20Lore/Fable%20Lore%20Logo.png?raw=true",
       "readme": "https://moddinglounge.notion.site/Fable-Lore-1d9ea8a32a764b8793598bf417f28988",
-      "download": "https://authored-files.wabbajack.org/Fable Lore.wabbajack_36b97f1a-3f81-446d-b2b3-e1bed86aad60",
+      "download": "https://authored-files.wabbajack.org/Fable Lore.wabbajack_be7b3b21-f1e1-41a5-817e-e6d0e55f3524",
       "machineURL": "Fable-Lore",
       "discordURL": "https://discord.gg/DfFYJtt8p4"
     },
     "download_metadata": {
-      "Hash": "UoEx9dWER7o=",
-      "Size": 68167802,
-      "NumberOfArchives": 678,
-      "SizeOfArchives": 84505657055,
-      "NumberOfInstalledFiles": 268863,
-      "SizeOfInstalledFiles": 118298976896
+      "Hash": "SvJKDfxOxWw=",
+      "Size": 125822625,
+      "NumberOfArchives": 671,
+      "SizeOfArchives": 70411210903,
+      "NumberOfInstalledFiles": 268891,
+      "SizeOfInstalledFiles": 118297236560
     },
-    "version": "1.15.0",
+    "version": "1.15.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-10-16T09:19:25.5080283Z",
+    "dateUpdated": "2022-10-16T22:31:01.5847771Z",
     "repositoryName": ""
   },
   {
