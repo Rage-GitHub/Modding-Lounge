@@ -23,21 +23,21 @@
     "links": {
       "image": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Atomic%20Warfare/Atomic%20Warfare%20Logo.png?raw=true",
       "readme": "https://moddinglounge.notion.site/Atomic-Warfare-d45c172b464d423ebb9dc00a02c0076a",
-      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_b8fd8353-8c70-4c12-98dd-e2a1fe9ab5e8",
-      "machineURL": "Atomic_Warfare",
+      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_31abdca1-449f-48ae-951f-ba9462c27109",
+      "machineURL": "Atomic-Warfare",
       "discordURL": "https://discord.gg/DfFYJtt8p4"
     },
     "download_metadata": {
-      "Hash": "3UQVQnfmOJg=",
-      "Size": 117013115,
-      "NumberOfArchives": 334,
-      "SizeOfArchives": 44280493012,
-      "NumberOfInstalledFiles": 27464,
-      "SizeOfInstalledFiles": 52114850664
+      "Hash": "yaFdlPtSe0M=",
+      "Size": 488940157,
+      "NumberOfArchives": 351,
+      "SizeOfArchives": 45467905041,
+      "NumberOfInstalledFiles": 27741,
+      "SizeOfInstalledFiles": 53767952114
     },
-    "version": "1.10.0",
+    "version": "1.11.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-10-05T04:01:52.6760789Z",
+    "dateUpdated": "2022-10-13T10:59:28.3299698Z",
     "repositoryName": ""
   },
   {
@@ -65,25 +65,24 @@
     "links": {
       "image": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Fable%20Lore/Fable%20Lore%20Logo.png?raw=true",
       "readme": "https://moddinglounge.notion.site/Fable-Lore-1d9ea8a32a764b8793598bf417f28988",
-      "download": "https://authored-files.wabbajack.org/Fable Lore.wabbajack_afd902a1-09e4-4bc1-8b70-a1738c0e932c",
+      "download": "https://authored-files.wabbajack.org/Fable Lore.wabbajack_be7b3b21-f1e1-41a5-817e-e6d0e55f3524",
       "machineURL": "Fable-Lore",
       "discordURL": "https://discord.gg/DfFYJtt8p4"
     },
     "download_metadata": {
-      "Hash": "/uDLAZVTstE=",
-      "Size": 89679624,
-      "NumberOfArchives": 660,
-      "SizeOfArchives": 71320461290,
-      "NumberOfInstalledFiles": 268658,
-      "SizeOfInstalledFiles": 117601471508
+      "Hash": "SvJKDfxOxWw=",
+      "Size": 125822625,
+      "NumberOfArchives": 671,
+      "SizeOfArchives": 70411210903,
+      "NumberOfInstalledFiles": 268891,
+      "SizeOfInstalledFiles": 118297236560
     },
-    "version": "1.14.0",
+    "version": "1.15.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-10-12T00:05:12.7098077Z",
+    "dateUpdated": "2022-10-16T22:31:01.5847771Z",
     "repositoryName": ""
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Cyber Runner",
     "description": "A Cyberpunk 2077 QoL Modlist focusing on improving over the base games mechanics, such as police chases, penthouses to buy, improved relationships, more immersive locations, etc., without being too intrusive on the base game.",
     "author": "Rage",
@@ -105,7 +104,6 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/Cyber%20Runner/Cyber%20Runner%20-%20Logo.png",
       "readme": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/README.md",
       "download": "https://authored-files.wabbajack.org/Cyber Runner.wabbajack_5d96a98f-7d72-44c0-9cc9-b0f5d69d0989",
@@ -113,7 +111,6 @@
       "discordURL": "https://discord.gg/DfFYJtt8p4"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "1k+WWCfKvs0=",
       "Size": 9228206,
       "NumberOfArchives": 39,
@@ -122,6 +119,8 @@
       "SizeOfInstalledFiles": 478712637
     },
     "version": "0.2.0",
-    "RepositoryName": ""
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
