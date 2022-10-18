@@ -13,7 +13,7 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 ### Fallout 4
 
 - [Atomic Warfare](https://moddinglounge.notion.site/Atomic-Warfare-d45c172b464d423ebb9dc00a02c0076a)
-  - Atomic Warfare is an overhaul immersive, hardcore Tarkov/S.T.A.L.K.E.R.-like experience with amazing combat and new gameplay mechanics. With hundreds of hours of new Quests and New Lands to explore, you're surely to be bound to playing with endless entertainment.
+  - Atomic Warfare is an immersive overhauled, hardcore Tarkov/S.T.A.L.K.E.R.-like experience with amazing combat and new gameplay mechanics. With hundreds of hours of new Quests and New Lands to explore, you're surely to be bound to playing with endless entertainment.
 
 ### Skyrim Anniversary Edition
 
