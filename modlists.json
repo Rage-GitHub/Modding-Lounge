@@ -48,8 +48,9 @@
       "github/Rage-GitHub"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Lore-Friendly",
       "CGO",
       "EnaiRim",
