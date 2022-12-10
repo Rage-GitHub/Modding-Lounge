@@ -43,7 +43,7 @@
   },
   {
     "title": "Fable Lore",
-    "description": "Fable Lore is a Deleveled, modernized combat, survival focus approach modlist built with every aspect of modding. With stunning graphics, hundreds of gauranteed hours of playtime, new lands and entire storylines, you're bound to have an endless adventure in a better Skyrim modded experience. Built for every type of playstyle, from mages to warriors, every RPG aspect has been touched in some way to offer a more in-depth experience for any playstyle.\n\nFor an in-depth analysis of its features, visit the Wiki.",
+    "description": "Fable Lore is a Deleveled, modernized combat, survival focus approach modlist built with every aspect of modding. With stunning graphics, hundreds of gauranteed hours of playtime, new lands and entire storylines, you\u0027re bound to have an endless adventure in a better Skyrim modded experience. Built for every type of playstyle, from mages to warriors, every RPG aspect has been touched in some way to offer a more in-depth experience for any playstyle.\n\nFor an in-depth analysis of its features, visit the Wiki.",
     "author": "Rage",
     "maintainers": [
       "github/Rage-GitHub"
@@ -67,21 +67,21 @@
     "links": {
       "image": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Fable%20Lore/Fable%20Lore%20Logo.png?raw=true",
       "readme": "https://moddinglounge.notion.site/Fable-Lore-1d9ea8a32a764b8793598bf417f28988",
-      "download": "https://authored-files.wabbajack.org/Fable Lore.wabbajack_be7b3b21-f1e1-41a5-817e-e6d0e55f3524",
+      "download": "https://authored-files.wabbajack.org/Fable Lore.wabbajack_67b052e1-5105-45b4-8e74-db2238074c89",
       "machineURL": "Fable-Lore",
       "discordURL": "https://discord.gg/DfFYJtt8p4"
     },
     "download_metadata": {
-      "Hash": "SvJKDfxOxWw=",
-      "Size": 125822625,
-      "NumberOfArchives": 671,
-      "SizeOfArchives": 70411210903,
-      "NumberOfInstalledFiles": 268891,
-      "SizeOfInstalledFiles": 118297236560
+      "Hash": "in3lcqpeGds=",
+      "Size": 126030707,
+      "NumberOfArchives": 697,
+      "SizeOfArchives": 73168127946,
+      "NumberOfInstalledFiles": 276597,
+      "SizeOfInstalledFiles": 122595572641
     },
-    "version": "1.15.1",
+    "version": "1.16.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-10-16T22:31:01.5847771Z",
+    "dateUpdated": "2022-12-10T08:12:41.4053006Z",
     "repositoryName": ""
   },
   {
