@@ -180,7 +180,7 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/Valholl/Valholl%20-%20Logo.jpg",
       "readme": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/README.md",
       "download": "https://authored-files.wabbajack.org/Valhöll.wabbajack_84eb0753-e3ee-4023-b1fc-9ad617d51c50",
       "machineURL": "Valholl",
