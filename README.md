@@ -24,3 +24,9 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 
 - [Cyber Runner]() (Soon<sup>TM</sup>)
   - A Cyberpunk 2077 QoL Modlist focusing on improving over the base games mechanics, such as police chases, penthouses to buy, improved relationships, more immersive locations, etc., without being too intrusive on the base game.
+
+### Valheim
+- [VALHÖLL]()
+  - A Valheim+ QoL, feature expansion based modlist, including new systems such as RPG based loot, variety of new building pieces, improved gameplay mechanics such as archery, and more.
+- [Valheim Modding Tools]()
+  - A basic setup and collection of tools for modding Valheim on a straightfoward basis. Much of the necessary frameworks and requirements for modding Valheim are preinstalled for easier installation of mod setup.

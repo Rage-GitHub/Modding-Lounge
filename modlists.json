@@ -143,7 +143,7 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/VMT/VMT%20-%20Logo.jpg",
       "readme": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/README.md",
       "download": "https://authored-files.wabbajack.org/Valheim%20Modding%20Tools.wabbajack_6e597ad3-0588-4830-96e0-c46b11eda319",
       "machineURL": "VMT",
