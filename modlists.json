@@ -24,21 +24,21 @@
     "links": {
       "image": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Atomic%20Warfare/Atomic%20Warfare%20Logo.png?raw=true",
       "readme": "https://moddinglounge.com/aw-documentation/",
-      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_31abdca1-449f-48ae-951f-ba9462c27109",
+      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_daef62de-b067-4cf7-9940-ed44509d342d",
       "machineURL": "Atomic-Warfare",
       "discordURL": "https://discord.gg/DfFYJtt8p4"
     },
     "download_metadata": {
-      "Hash": "yaFdlPtSe0M=",
-      "Size": 488940157,
-      "NumberOfArchives": 351,
-      "SizeOfArchives": 45467905041,
-      "NumberOfInstalledFiles": 27741,
-      "SizeOfInstalledFiles": 53767952114
+      "Hash": "jELKgmqXVvs=",
+      "Size": 486688334,
+      "NumberOfArchives": 394,
+      "SizeOfArchives": 49740536421,
+      "NumberOfInstalledFiles": 28783,
+      "SizeOfInstalledFiles": 55827001612
     },
-    "version": "1.11.0",
+    "version": "1.12.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-10-13T10:59:28.3299698Z",
+    "dateUpdated": "2022-12-30T10:11:00.9743019Z",
     "repositoryName": ""
   },
   {
@@ -156,11 +156,15 @@
       "SizeOfArchives": 144666739,
       "NumberOfInstalledFiles": 1744,
       "SizeOfInstalledFiles": 369394289
-    }
+    },
+    "version": null,
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   },
   {
-    "title": "VALHÖLL",
-    "description": "A Valheim+ QoL, feature expansion based modlist, including new systems such as RPG based loot, variety of new building pieces, improved gameplay mechanics such as archery, and more.",
+    "title": "VALH\u00D6LL",
+    "description": "A Valheim\u002B QoL, feature expansion based modlist, including new systems such as RPG based loot, variety of new building pieces, improved gameplay mechanics such as archery, and more.",
     "author": "Rage",
     "maintainers": [
       "github/Rage-GitHub"
@@ -182,7 +186,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/Valholl/Valholl%20-%20Logo.jpg",
       "readme": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Valhöll.wabbajack_84eb0753-e3ee-4023-b1fc-9ad617d51c50",
+      "download": "https://authored-files.wabbajack.org/Valh\u00F6ll.wabbajack_84eb0753-e3ee-4023-b1fc-9ad617d51c50",
       "machineURL": "Valholl",
       "discordURL": "https://discord.gg/DfFYJtt8p4"
     },
@@ -193,6 +197,10 @@
       "SizeOfArchives": 1340686119,
       "NumberOfInstalledFiles": 1917,
       "SizeOfInstalledFiles": 3139666006
-    }
+    },
+    "version": null,
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
