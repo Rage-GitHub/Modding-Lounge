@@ -145,21 +145,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/VMT/VMT%20-%20Logo.jpg",
       "readme": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/VMT/README.md",
-      "download": "https://authored-files.wabbajack.org/Valheim%20Modding%20Tools.wabbajack_6e597ad3-0588-4830-96e0-c46b11eda319",
+      "download": "https://authored-files.wabbajack.org/Valheim Modding Tools.wabbajack_e69eca9f-ef21-4822-99ae-c565a346c5be",
       "machineURL": "VMT",
       "discordURL": "https://discord.gg/fEBJYFnKsp"
     },
     "download_metadata": {
-      "Hash": "njs93ULSjDo=",
-      "Size": 684389,
-      "NumberOfArchives": 8,
+      "Hash": "OzpUVJ576Kc=",
+      "Size": 684844,
+      "NumberOfArchives": 7,
       "SizeOfArchives": 144666739,
       "NumberOfInstalledFiles": 1744,
-      "SizeOfInstalledFiles": 369394289
+      "SizeOfInstalledFiles": 369394339
     },
-    "version": null,
+    "version": "1.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
+    "dateUpdated": "2023-01-02T09:25:34.697512Z",
     "repositoryName": ""
   },
   {
