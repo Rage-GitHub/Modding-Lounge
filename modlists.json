@@ -186,21 +186,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/Valholl/Valholl%20-%20Logo.jpg",
       "readme": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Valh\u00F6ll.wabbajack_84eb0753-e3ee-4023-b1fc-9ad617d51c50",
+      "download": "https://authored-files.wabbajack.org/Valh\u00F6ll.wabbajack_298dacd4-3dbe-428a-915a-2833de9fa15f",
       "machineURL": "Valholl",
       "discordURL": "https://discord.gg/fEBJYFnKsp"
     },
     "download_metadata": {
-      "Hash": "JOo8xvNkJC8=",
-      "Size": 102453603,
-      "NumberOfArchives": 29,
-      "SizeOfArchives": 1340686119,
-      "NumberOfInstalledFiles": 1917,
-      "SizeOfInstalledFiles": 3139666006
+      "Hash": "l0koeMtfFTY=",
+      "Size": 3432384,
+      "NumberOfArchives": 35,
+      "SizeOfArchives": 1618881231,
+      "NumberOfInstalledFiles": 1924,
+      "SizeOfInstalledFiles": 3317226210
     },
-    "version": null,
+    "version": "1.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
+    "dateUpdated": "2023-01-02T08:54:15.5057944Z",
     "repositoryName": ""
   }
 ]
