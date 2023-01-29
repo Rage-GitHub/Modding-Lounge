@@ -12,12 +12,12 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 
 ### Fallout 4
 
-- [Atomic Warfare](https://moddinglounge.notion.site/Atomic-Warfare-d45c172b464d423ebb9dc00a02c0076a)
+- [Atomic Warfare](https://moddinglounge.com/atomic-warfare/)
   - Atomic Warfare is an immersive overhauled, hardcore Tarkov/S.T.A.L.K.E.R.-like experience with amazing combat and new gameplay mechanics. With hundreds of hours of new Quests and New Lands to explore, you're surely to be bound to playing with endless entertainment.
 
 ### Skyrim Anniversary Edition
 
-- [Fable Lore](https://moddinglounge.notion.site/Fable-Lore-1d9ea8a32a764b8793598bf417f28988)
+- [Fable Lore](https://moddinglounge.com/fable-lore/)
   - An Anniversary Edition based Modlist, with modernizing combat, a survival focus, lore and content expansion, and more than 4 new major DLC-mods to explore. Maintained to be lightweight, small and non-ENB, this list is perfect for any user looking for an expanded version of Skyrim.
 
 ### Cyberpunk 2077
@@ -26,7 +26,7 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
   - A Cyberpunk 2077 QoL Modlist focusing on improving over the base games mechanics, such as police chases, penthouses to buy, improved relationships, more immersive locations, etc., without being too intrusive on the base game.
 
 ### Valheim
-- [VALHÖLL](https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Valholl/README.md)
+- [VALHÖLL](https://moddinglounge.com/valholl/)
   - A Valheim+ QoL, feature expansion based modlist, including new systems such as RPG based loot, variety of new building pieces, improved gameplay mechanics such as archery, and more.
 - [Valheim Modding Tools](https://github.com/Rage-GitHub/Modding-Lounge/blob/main/VMT/README.md)
   - A basic setup and collection of tools for modding Valheim on a straightfoward basis. Much of the necessary frameworks and requirements for modding Valheim are preinstalled for easier installation of mod setup.
