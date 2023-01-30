@@ -24,21 +24,21 @@
     "links": {
       "image": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Atomic%20Warfare/Atomic%20Warfare%20Logo.png?raw=true",
       "readme": "https://moddinglounge.com/atomic-warfare/documentation/",
-      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_7cc76f96-8119-4115-8c84-be15b84c8eb2",
+      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_ec6b6823-020e-4293-b2b9-0558edb3fca1",
       "machineURL": "Atomic-Warfare",
       "discordURL": "https://discord.gg/fEBJYFnKsp"
     },
     "download_metadata": {
-      "Hash": "ADAvWLkr3xw=",
-      "Size": 495965610,
-      "NumberOfArchives": 579,
-      "SizeOfArchives": 53205435083,
-      "NumberOfInstalledFiles": 10279,
-      "SizeOfInstalledFiles": 65674284932
+      "Hash": "pL81XyuJbuA=",
+      "Size": 495996016,
+      "NumberOfArchives": 582,
+      "SizeOfArchives": 54933447973,
+      "NumberOfInstalledFiles": 10355,
+      "SizeOfInstalledFiles": 65004218930
     },
-    "version": "1.15.0",
+    "version": "1.15.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-01-28T04:58:07.5866104Z",
+    "dateUpdated": "2023-01-30T07:28:42.133341Z",
     "repositoryName": ""
   },
   {
