@@ -22,7 +22,7 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 
 ### Cyberpunk 2077
 
-- [Cyber Runner]() (Soon<sup>TM</sup>)
+- [Cyber Runner]() (Experimental)
   - A Cyberpunk 2077 QoL Modlist focusing on improving over the base games mechanics, such as police chases, penthouses to buy, improved relationships, more immersive locations, etc., without being too intrusive on the base game.
 
 ### Valheim
