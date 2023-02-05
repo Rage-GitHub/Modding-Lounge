@@ -1,7 +1,7 @@
 [
   {
     "title": "Atomic Warfare",
-    "description": "From the author of Fable Lore, bringing quality to modding, I present you Atomic Warfare. A modlist designed around a truly harsh and challenging apocalyptic survival game, featuring S.T.A.L.K.E.R./Tarkov-like aspects, with scarcity in the world of Boston, superior gunplay and combat, advanced and overhauled visuals, and so, so many more features.\n\nStepping into the world of Atomic Warfare will make you wish for Nuclear Winter, with all new lore-friendly guns, armors, creatures, content and lands to explore.",
+    "description": "Experience Fallout 4 in a re-envisioned state with a truly ultimate and high-quality modded experience. Featuring hundreds of hours of new content, weapons, armors, locations, etc. and all new lore-friendly content from the amazing Capital Wasteland and New Vegas teams. Take on the survival aspect in a whole new and envisioned way that truly makes survival both fun AND challenging without sacrificing your sanity. Almost every aspect has been touched in some way, giving a new fresh coat of paint on the game.",
     "author": "Rage",
     "maintainers": [
       "github/Rage-GitHub"
@@ -13,9 +13,9 @@
       "Overhaul",
       "Immersive",
       "Lore-Friendly",
-      "MAIM",
       "Project Mojave",
-      "Nuka World Plus"
+      "Nuka World Plus",
+      "Survival Focused"
     ],
     "nsfw": false,
     "utility_list": false,
