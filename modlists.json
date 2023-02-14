@@ -64,9 +64,9 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Atomic%20Warfare/Atomic%20Warfare%20Logo.png?raw=true",
+      "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/Wasteland%20Prospects/Temp-Logo.png",
       "readme": "https://moddinglounge.com/atomic-warfare/documentation/",
-      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_872c6388-bc4d-4549-88f9-d73ccb84fc4c",
+      "download": "",
       "machineURL": "Wasteland-Prospects",
       "discordURL": "https://discord.gg/fEBJYFnKsp"
     }
