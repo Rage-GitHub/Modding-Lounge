@@ -42,6 +42,36 @@
     "repositoryName": ""
   },
   {
+    "title": "Wasteland Prospects",
+    "description": "Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won't be restricted to a complex setup with TTW, but instead focus your travels on Nevada. Take on a new look of New Vegas, with an ever growing list of graphical adjustments and improvements. Experience classic weapons with completely fresh and new animations and discover new weapons and equipment.",
+    "author": "Rage",
+    "maintainers": [
+      "github/Rage-GitHub"
+    ],
+    "game": "fallout4",
+    "official": true,
+    "tags": [
+      "Hardcore",
+      "Survival",
+      "Overhaul",
+      "Modern AI",
+      "Lore-Friendly",
+      "Non-TTW",
+      "New and Overhauled Locations"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Atomic%20Warfare/Atomic%20Warfare%20Logo.png?raw=true",
+      "readme": "https://moddinglounge.com/atomic-warfare/documentation/",
+      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_872c6388-bc4d-4549-88f9-d73ccb84fc4c",
+      "machineURL": "Wasteland-Prospects",
+      "discordURL": "https://discord.gg/fEBJYFnKsp"
+    }
+  },
+  {
     "title": "Fable Lore",
     "description": "Fable Lore is a Deleveled, modernized combat, survival focus approach modlist built with every aspect of modding. With stunning graphics, hundreds of gauranteed hours of playtime, new lands and entire storylines, you\u0027re bound to have an endless adventure in a better Skyrim modded experience. Built for every type of playstyle, from mages to warriors, every RPG aspect has been touched in some way to offer a more in-depth experience for any playstyle.\n\nFor an in-depth analysis of its features, visit the Wiki.",
     "author": "Rage",
