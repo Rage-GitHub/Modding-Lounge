@@ -15,6 +15,11 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 - [Atomic Warfare](https://moddinglounge.com/atomic-warfare/)
   - Atomic Warfare is an immersive overhauled, hardcore Tarkov/S.T.A.L.K.E.R.-like experience with amazing combat and new gameplay mechanics. With hundreds of hours of new Quests and New Lands to explore, you're surely to be bound to playing with endless entertainment.
 
+### Fallout: New Vegas
+
+- [Wasteland Prospects](https://moddinglounge.com/wasteland-prospects/)
+  - Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won't be restricted to a complex setup with TTW, but instead focus your travels on Nevada.
+
 ### Skyrim Anniversary Edition
 
 - [Fable Lore](https://moddinglounge.com/fable-lore/)
