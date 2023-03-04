@@ -109,10 +109,22 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/Wasteland%20Prospects/Temp-Logo.png",
       "readme": "https://moddinglounge.com/documentation/",
-      "download": "https://authored-files.wabbajack.org/The%20Badlands.wabbajack_4d4b02d8-c323-4d75-a4ab-94e99fae26dc",
+      "download": "https://authored-files.wabbajack.org/The Badlands.wabbajack_f04fec76-76bf-499d-a5f2-f23be4b4bc33",
       "machineURL": "The-Badlands",
       "discordURL": "https://discord.gg/fEBJYFnKsp"
-    }
+    },
+    "download_metadata": {
+      "Hash": "jzbgTD9CUZ8=",
+      "Size": 7580277,
+      "NumberOfArchives": 220,
+      "SizeOfArchives": 18637512763,
+      "NumberOfInstalledFiles": 31859,
+      "SizeOfInstalledFiles": 35227277504
+    },
+    "version": "0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-03-04T15:38:34.3231706Z",
+    "repositoryName": ""
   },
   {
     "title": "Fable Lore",
