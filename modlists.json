@@ -112,16 +112,7 @@
       "download": "https://authored-files.wabbajack.org/The%20Badlands.wabbajack_4d4b02d8-c323-4d75-a4ab-94e99fae26dc",
       "machineURL": "The-Badlands",
       "discordURL": "https://discord.gg/fEBJYFnKsp"
-    },
-    "download_metadata": {
-      "Hash": "eujGnHG9xDM=",
-      "Size": 7580245,
-      "NumberOfArchives": 220,
-      "SizeOfArchives": 18637512763,
-      "NumberOfInstalledFiles": 31859,
-      "SizeOfInstalledFiles": 35227277338
-    },
-    "version": "0.1.0b"
+    }
   },
   {
     "title": "Fable Lore",
