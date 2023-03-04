@@ -19,6 +19,8 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 
 - [Wasteland Prospects](https://moddinglounge.com/wasteland-prospects/)
   - Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won't be restricted to a complex setup with TTW, but instead focus your travels on Nevada.
+- [The Badlands](https://moddinglounge.com/documentation/)
+  - Open-Beta testing for an upcoming TTW modlist, The Badlands. Featured as the sister modlist to Wasteland Prospects, this aims to bring most of the features from WP to a TTW-based setup.
 
 ### Skyrim Anniversary Edition
 
