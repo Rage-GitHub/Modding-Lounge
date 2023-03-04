@@ -49,7 +49,7 @@
       "github/Rage-GitHub"
     ],
     "game": "falloutnewvegas",
-    "official": true,
+    "official": false,
     "tags": [
       "Hardcore",
       "Survival",
@@ -82,6 +82,46 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-02-27T07:54:11.6548088Z",
     "repositoryName": ""
+  },
+  {
+    "title": "The Badlands",
+    "description": "Open-Beta testing for an upcoming TTW modlist, The Badlands. Featured as the sister modlist to Wasteland Prospects, this aims to bring most of the features from WP to a TTW-based setup.",
+    "author": "Rage",
+    "maintainers": [
+      "github/Rage-GitHub"
+    ],
+    "game": "falloutnewvegas",
+    "official": false,
+    "tags": [
+      "Hardcore",
+      "Survival",
+      "Overhaul",
+      "Modern AI",
+      "Lore-Friendly",
+      "New and Overhauled Locations",
+      "TTW",
+      "Slippyified"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/Wasteland%20Prospects/Temp-Logo.png",
+      "readme": "https://moddinglounge.com/documentation/",
+      "download": "https://authored-files.wabbajack.org/The%20Badlands.wabbajack_4d4b02d8-c323-4d75-a4ab-94e99fae26dc",
+      "machineURL": "The-Badlands",
+      "discordURL": "https://discord.gg/fEBJYFnKsp"
+    },
+    "download_metadata": {
+      "Hash": "eujGnHG9xDM=",
+      "Size": 7580245,
+      "NumberOfArchives": 220,
+      "SizeOfArchives": 18637512763,
+      "NumberOfInstalledFiles": 31859,
+      "SizeOfInstalledFiles": 35227277338
+    },
+    "version": "0.1.0b"
   },
   {
     "title": "Fable Lore",
