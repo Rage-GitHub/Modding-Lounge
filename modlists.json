@@ -66,21 +66,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/Wasteland%20Prospects/Logo.png",
       "readme": "https://moddinglounge.com/wasteland-prospects/documentation/",
-      "download": "https://authored-files.wabbajack.org/Wasteland Prospects.wabbajack_b4e98fc9-7123-482c-955b-bc59cfd36b81",
+      "download": "https://authored-files.wabbajack.org/Wasteland Prospects.wabbajack_6b266929-ac81-484c-98d5-9ad6dbd3b308",
       "machineURL": "Wasteland-Prospects",
       "discordURL": "https://discord.gg/fEBJYFnKsp"
     },
     "download_metadata": {
-      "Hash": "E3EcE7KllSI=",
-      "Size": 369864085,
-      "NumberOfArchives": 625,
-      "SizeOfArchives": 23472730439,
-      "NumberOfInstalledFiles": 40717,
-      "SizeOfInstalledFiles": 46393980405
+      "Hash": "7+9KSVHNmdI=",
+      "Size": 359993641,
+      "NumberOfArchives": 669,
+      "SizeOfArchives": 23908960096,
+      "NumberOfInstalledFiles": 42373,
+      "SizeOfInstalledFiles": 48354422672
     },
-    "version": "1.4.0",
+    "version": "1.5.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-03-20T03:19:52.1711932Z",
+    "dateUpdated": "2023-03-29T07:33:14.0488367Z",
     "repositoryName": ""
   },
   {
