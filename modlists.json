@@ -149,7 +149,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Fable%20Lore/Fable%20Lore%20Logo.png?raw=true",
       "readme": "https://moddinglounge.com/fable-lore/documentation/",
