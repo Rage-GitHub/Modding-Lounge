@@ -109,21 +109,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/main/Wasteland%20Prospects/Temp-Logo.png",
       "readme": "https://moddinglounge.com/documentation/",
-      "download": "https://authored-files.wabbajack.org/The Badlands.wabbajack_3d0dc528-94c2-456f-8f44-fac43e2bfff4",
+      "download": "https://authored-files.wabbajack.org/The Badlands.wabbajack_8f6aa2ba-95a5-48f9-91bd-4fb210569f15",
       "machineURL": "The-Badlands",
       "discordURL": "https://discord.gg/fEBJYFnKsp"
     },
     "download_metadata": {
-      "Hash": "K/KU1SsyznY=",
-      "Size": 360424114,
-      "NumberOfArchives": 527,
-      "SizeOfArchives": 24727048453,
-      "NumberOfInstalledFiles": 41247,
-      "SizeOfInstalledFiles": 45850793403
+      "Hash": "MiVa+0pHoEw=",
+      "Size": 361279804,
+      "NumberOfArchives": 555,
+      "SizeOfArchives": 24922446944,
+      "NumberOfInstalledFiles": 41208,
+      "SizeOfInstalledFiles": 45805187196
     },
-    "version": "0.3.0",
+    "version": "0.4.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-04-04T09:14:32.5839888Z",
+    "dateUpdated": "2023-04-07T09:32:36.7238811Z",
     "repositoryName": ""
   },
   {
