@@ -2,29 +2,68 @@ Here is a full comprehensive list of changelogs for anything relating to Artific
 
 ---
 
-### Version 1.2.0
+### Version 1.6.1a
 
 #### Release Date
 
-> 9/
+> 10/10/2023, 8:30PM EST
 
-#### Notes
+### Mod
+#### FIXED
+- FOMOD installation for Munitions Vanilla Ammo Add-on
 
-> No new save is required.
->
-> Ensure patches are loaded after the corresponding mod(s) it patches.
+---
 
-#### Mod
+<details>
+<summary>Version 1.6.1</summary>
 
-- ADDED Ammo Scrapping System
-  - In retrospect, this allows any ammo to be scrapped for **Ammo Scrap** which then can now be used for the updated ammo crafting recipes.
-- ADDED Mercenary Keyword for Mercenary Pack - Reinvention Patch
-  - This does not make the patch required, but this is a base for the patch and others to categorize items.
-- REVISED Ammo Crafting Recipes
-  - This swaps out the components required for the new **Ammo Scrap** junk item which can be acquired from scrapping random items or found in the world.
-- FIXED Missing Keywords for Patches
+#### Release Date
 
-#### Patches
+> 10/10/2023, 8:30PM EST
 
-- ADDED Start Me Up Patch
-- ADDED Mercenary Pack - Reinvention Patch
+### Mod
+#### UPDATED
+- Harpoon scrap amount to provide 2 Steel instead of 1
+
+#### FIXED
+- Correct Harpoon scrap option to require Harpoon ammo
+- FOMOD installation for Project Mojave Outfit Pack to properly detect mod
+
+### Patches
+#### ADDED
+- Munitions Vanilla Ammo
+  - Updated Vanilla named crafts to match Vanilla Ammo Add-on
+
+---
+</details>
+<details>
+<summary>Version 1.6.0</summary>
+
+#### Release Date
+
+> 9/8/2023, 3:44AM EST
+
+### Patches
+#### ADDED
+- Tactical Weapon Mods
+  - Renames category for attachments to properly display what they are
+- Settlement Menu Manager
+  - Moved Config Holotapes to Utility workbench
+- Diamond City Radio Extended
+  - Moved Config Holotapes to Utility workbench
+- Better Locational Damage
+  - Moved Config Holotapes to Utility workbench
+- Synths Spawn Synths
+  - Moved scrappable Synth Relay Grenade to Manufacturing workbench
+- BOCW Nail Gun
+  - Moved craftable weapon to Weapons workbench
+- Vivid Weathers
+  - Moved Config Holotapes to Utility workbench
+
+#### UPDATED
+- Munitions
+  - Moved Config Holotape to Utility workbench
+  - Moved Gunpowder to Manufacturing workbench
+- True Storms
+  - Moved Config Holotape to Utility workbench
+</details>
