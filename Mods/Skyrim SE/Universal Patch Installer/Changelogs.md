@@ -5,7 +5,7 @@ Here is the full comprehensive list of every change in Fable Lore, allowing you 
 # Version 1.1.0
 ### Release Date
 
-> XX/XX/2023 @ xX:XX EST
+> 11/12/2023 @ 11:40PM EST
 
 ## ADDED
 ### Fabled Forests
