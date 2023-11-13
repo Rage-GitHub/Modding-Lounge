@@ -2,20 +2,25 @@ Here is the full comprehensive list of every change in Fable Lore, allowing you 
 
 ---
 
-# Version 1.X.X
+# Version 1.1.0
 ### Release Date
 
 > XX/XX/2023 @ xX:XX EST
-
-### Notes
-
-> No new save is required.
 
 ## ADDED
 ### Fabled Forests
 - Taarengrav Barrow
   - Moved tree blocking mine entrance to the side
 
+### Ryn's Series
+#### Ryn's Farms AIO
+- Fabled Forests
+  - Corrected a tree that was clipping in pathway at Sarethi's Farm.
+
 ## UPDATED
 - All Plugin Masters
   - Plugins were including Anniversary Edition content or unnecessary DLC masters that weren't needed, so in favor of providing the most compatibility between game versions, the plugin masters have been cleaned
+
+## REMOVED
+### Ryn's Sleeping Giant Inn
+- Redcap Patch
