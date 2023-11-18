@@ -5,7 +5,7 @@ Here is the full comprehensive list of every change in Fable Lore, allowing you 
 # Version 1.2.0
 ### Release Date
 
-> XX/XX/2023 @ XX:XX EST
+> 11/17/2023 @ 9:33PM EST
 
 ## ADDED
 ### Ryn's Series
