@@ -2,6 +2,27 @@ Here is the full comprehensive list of every change in Fable Lore, allowing you 
 
 ---
 
+# Version 1.2.0
+### Release Date
+
+> XX/XX/2023 @ XX:XX EST
+
+## ADDED
+### Ryn's Series
+#### Ryn's Robber Gorge
+- Enhanced Landscapes
+
+### The Great City Series
+#### Rorikstead
+- Fabled Forests
+- Rorikstead Clutter Enhanced
+- Spaghetti's Towns - AIO
+
+---
+
+<details>
+<summary>Version 1.1.0</summary>
+
 # Version 1.1.0
 ### Release Date
 
@@ -24,3 +45,4 @@ Here is the full comprehensive list of every change in Fable Lore, allowing you 
 ## REMOVED
 ### Ryn's Sleeping Giant Inn
 - Redcap Patch
+</details>
