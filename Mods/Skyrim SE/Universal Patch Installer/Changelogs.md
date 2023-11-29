@@ -2,6 +2,47 @@ Here is the full comprehensive list of every change in Fable Lore, allowing you 
 
 ---
 
+# Version 1.
+### Release Date
+
+> XX/XX/2023 @ XX:XX EST
+
+## ADDED
+## Locations and Worldscapes
+### Fabled Forests
+- Daedric Shrines - Hircine
+
+### The Great City Series
+#### Morthal
+- Spaghetti's Cities - AIO
+- Fabled Forests
+
+### Spaghetti's Cities - AIO
+- Detailed Cities
+
+### Ryn's Series
+#### White River Watch
+- Fabled Forests
+- Enhanced Landscapes
+
+#### Ustengrav
+- Fabled Forests
+
+## Gameplay
+### Camping Extended
+- Turn of the Seasons
+- Fabled Forests
+- Fabled Forests - Ivy on Trees
+
+## REVISED
+### Patches
+- Patches added in 1.2.0 to remove unnecessary masters
+
+---
+
+<details>
+<summary>Version 1.2.0</summary>
+
 # Version 1.2.0
 ### Release Date
 
@@ -19,7 +60,7 @@ Here is the full comprehensive list of every change in Fable Lore, allowing you 
 - Spaghetti's Towns - AIO
 
 ---
-
+</details>
 <details>
 <summary>Version 1.1.0</summary>
 
