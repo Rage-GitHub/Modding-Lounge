@@ -5,7 +5,7 @@ Here is the full comprehensive list of every change in Fable Lore, allowing you 
 # Version 1.3.1
 ### Release Date
 
-> 11/28/2023 @ 10:22PM EST
+> 12/3/2023 @ 8:31PM EST
 
 ## ADDED
 ## Locations and Worldscapes
