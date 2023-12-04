@@ -23,6 +23,7 @@ Here is the full comprehensive list of every change in Fable Lore, allowing you 
 #### Morthal
 - Fabled Forests
   - Adjusted some more trees needing repositioning
+  - Fixed FOMOD plugin installation
 
 ---
 
