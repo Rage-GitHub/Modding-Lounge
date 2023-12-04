@@ -2,6 +2,33 @@ Here is the full comprehensive list of every change in Fable Lore, allowing you 
 
 ---
 
+# Version 1.3.1
+### Release Date
+
+> 11/28/2023 @ 10:22PM EST
+
+## ADDED
+## Locations and Worldscapes
+### The Great City Series
+#### Falkreath
+- Spaghetti's Cities - AIO
+
+### Ryn's Series
+#### Dragon Mounds AIO
+- Enhanced Landscapes
+
+## REVISED
+## Locations and Worldscapes
+### The Great City Series
+#### Morthal
+- Fabled Forests
+  - Adjusted some more trees needing repositioning
+
+---
+
+<details>
+<summary>Version 1.3.0</summary>
+
 # Version 1.3.0
 ### Release Date
 
@@ -39,7 +66,7 @@ Here is the full comprehensive list of every change in Fable Lore, allowing you 
 - Patches added in 1.2.0 to remove unnecessary masters
 
 ---
-
+</details>
 <details>
 <summary>Version 1.2.0</summary>
 
