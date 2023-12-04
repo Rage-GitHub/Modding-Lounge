@@ -22,20 +22,20 @@
         "$type": "Links, Wabbajack.Lib",
         "image": "https://staticdelivery.nexusmods.com/mods/1704/images/73801/73801-1699323911-677211687.png",
         "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki",
-        "download": "https://authored-files.wabbajack.org/Fable%20Lore.wabbajack_9845b5ae-c292-4b3d-84d5-f43c30476b75",
+        "download": "https://authored-files.wabbajack.org/Fable%20Lore.wabbajack_57fe3756-0b5f-4e7a-847b-4f37fbdb1adf",
         "machineURL": "Fable-Lore",
         "discordURL": "https://discord.com/invite/fEBJYFnKsp"
       },
       "download_metadata": {
         "$type": "DownloadMetadata, Wabbajack.Lib",
-        "Hash": "/NQDB8gqfDU=",
-        "Size": 24241431,
-        "NumberOfArchives": 890,
-        "SizeOfArchives": 70807257781,
-        "NumberOfInstalledFiles": 238184,
-        "SizeOfInstalledFiles": 108653129578
+        "Hash": "6SePobyh0D4=",
+        "Size": 115946935,
+        "NumberOfArchives": 1050,
+        "SizeOfArchives": 82589234739,
+        "NumberOfInstalledFiles": 301478,
+        "SizeOfInstalledFiles": 133425207149
       },
-      "version": "3.1.0"
+      "version": "3.2.3"
     },
     {
         "$type": "ModListMetadata, Wabbajack.Lib",
