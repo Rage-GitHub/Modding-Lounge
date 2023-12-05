@@ -1,79 +1,83 @@
 [
-    {
-      "$type": "ModListMetadata, Wabbajack.Lib",
-      "title": "Fable Lore",
-      "description": "Fable Lore is a unique modlist that takes on the deleveling aspect of Skyrim modding to a whole new experience, where instead of relying on an already existing mod, such as Requiem, and building the list around it, the deleveled experience is built around the list. Utilizing Synthesis, the modlist comes with a completely custom add-on built specifically for the list that delevels the entire world, as well as hundreds of thousands of tweaks and balancing to account for every single mod in the list.",
-      "author": "Rage",
-      "maintainers": [
-        "github/Rage-GitHub"
-      ],
-      "game": "skyrimspecialedition",
-      "tags": [
-        "Deleveled",
-        "Survival",
-        "Hardcore",
-        "Immersive",
-        "SimonRim"
-      ],
-      "nsfw": false,
-      "image_contains_title": true,
-      "force_down": false,
-      "links": {
-        "$type": "Links, Wabbajack.Lib",
-        "image": "https://staticdelivery.nexusmods.com/mods/1704/images/73801/73801-1699323911-677211687.png",
-        "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki",
-        "download": "https://authored-files.wabbajack.org/Fable%20Lore.wabbajack_57fe3756-0b5f-4e7a-847b-4f37fbdb1adf",
-        "machineURL": "Fable-Lore",
-        "discordURL": "https://discord.com/invite/fEBJYFnKsp"
-      },
-      "download_metadata": {
-        "$type": "DownloadMetadata, Wabbajack.Lib",
-        "Hash": "6SePobyh0D4=",
-        "Size": 115946935,
-        "NumberOfArchives": 1050,
-        "SizeOfArchives": 82589234739,
-        "NumberOfInstalledFiles": 301478,
-        "SizeOfInstalledFiles": 133425207149
-      },
-      "version": "3.2.3"
+  {
+    "title": "Fable Lore",
+    "description": "Fable Lore is a unique modlist that takes on the deleveling aspect of Skyrim modding to a whole new experience, where instead of relying on an already existing mod, such as Requiem, and building the list around it, the deleveled experience is built around the list. Utilizing Synthesis, the modlist comes with a completely custom add-on built specifically for the list that delevels the entire world, as well as hundreds of thousands of tweaks and balancing to account for every single mod in the list.",
+    "author": "Rage",
+    "maintainers": [
+      "github/Rage-GitHub"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Deleveled",
+      "Survival",
+      "Hardcore",
+      "Immersive",
+      "SimonRim"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/73801/73801-1699323911-677211687.png",
+      "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki",
+      "download": "https://authored-files.wabbajack.org/Fable Lore.wabbajack_0ba9d16d-dd0c-4d22-bf2a-c7050bd46240",
+      "machineURL": "Fable-Lore",
+      "discordURL": "https://discord.com/invite/fEBJYFnKsp"
     },
-    {
-        "$type": "ModListMetadata, Wabbajack.Lib",
-        "title": "Atomic Warfare",
-        "description": "Welcome to Atomic Warfare, the last stop you will take into an amazingly modded world of Fallout 4. Experience what Fallout 4 should have been, offering a more immersive and challenging experience to the post-apocalyptic world that is Boston. Discover completely new parts of the world, or encase yourself in the amazing forests of Boston with complete overhauls of all foliage.",
-        "author": "Rage",
-        "maintainers": [
-          "github/Rage-GitHub"
-        ],
-        "game": "fallout4",
-        "tags": [
-          "Deleveled",
-          "Survival",
-          "Hardcore",
-          "Immersive"
-        ],
-        "nsfw": false,
-        "image_contains_title": true,
-        "force_down": false,
-        "links": {
-          "$type": "Links, Wabbajack.Lib",
-          "image": "https://staticdelivery.nexusmods.com/mods/1151/images/54871/54871-1662324141-1026227698.png",
-          "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki",
-          "download": "https://authored-files.wabbajack.org/Atomic%20Warfare.wabbajack_4b4be391-ec41-4be4-9ecb-87d45811664b",
-          "machineURL": "Atomic-Warfare",
-          "discordURL": "https://discord.com/invite/fEBJYFnKsp"
-        },
-        "download_metadata": {
-          "$type": "DownloadMetadata, Wabbajack.Lib",
-          "Hash": "YDCmuReI9Og=",
-          "Size": 9137920,
-          "NumberOfArchives": 379,
-          "SizeOfArchives": 42306202153,
-          "NumberOfInstalledFiles": 29242,
-          "SizeOfInstalledFiles": 46823564333
-        },
-        "version": "3.1.1"
-      }
+    "download_metadata": {
+      "Hash": "hUOSFJ3scac=",
+      "Size": 115950145,
+      "NumberOfArchives": 1043,
+      "SizeOfArchives": 80845183191,
+      "NumberOfInstalledFiles": 301509,
+      "SizeOfInstalledFiles": 133425095747
+    },
+    "version": "3.2.4",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-12-05T01:55:01.2378235Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Atomic Warfare",
+    "description": "Welcome to Atomic Warfare, the last stop you will take into an amazingly modded world of Fallout 4. Experience what Fallout 4 should have been, offering a more immersive and challenging experience to the post-apocalyptic world that is Boston. Discover completely new parts of the world, or encase yourself in the amazing forests of Boston with complete overhauls of all foliage.",
+    "author": "Rage",
+    "maintainers": [
+      "github/Rage-GitHub"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Deleveled",
+      "Survival",
+      "Hardcore",
+      "Immersive"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://staticdelivery.nexusmods.com/mods/1151/images/54871/54871-1662324141-1026227698.png",
+      "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki",
+      "download": "https://authored-files.wabbajack.org/Atomic%20Warfare.wabbajack_4b4be391-ec41-4be4-9ecb-87d45811664b",
+      "machineURL": "Atomic-Warfare",
+      "discordURL": "https://discord.com/invite/fEBJYFnKsp"
+    },
+    "download_metadata": {
+      "Hash": "YDCmuReI9Og=",
+      "Size": 9137920,
+      "NumberOfArchives": 379,
+      "SizeOfArchives": 42306202153,
+      "NumberOfInstalledFiles": 29242,
+      "SizeOfInstalledFiles": 46823564333
+    },
+    "version": "3.1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
+  }
 ]
-  
-  
