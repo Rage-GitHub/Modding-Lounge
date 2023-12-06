@@ -17,7 +17,7 @@
       ],
       "nsfw": false,
       "image_contains_title": true,
-      "force_down": false,
+      "force_down": true,
       "links": {
         "$type": "Links, Wabbajack.Lib",
         "image": "https://staticdelivery.nexusmods.com/mods/1704/images/73801/73801-1699323911-677211687.png",
