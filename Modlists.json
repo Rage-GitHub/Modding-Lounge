@@ -19,7 +19,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/73801/73801-1699323911-677211687.png",
       "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki",
