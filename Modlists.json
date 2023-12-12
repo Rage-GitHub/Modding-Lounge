@@ -38,7 +38,7 @@
     "version": "3.2.5",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-12-07T12:15:28.8393653Z",
-    "repositoryName": ""
+    "repositoryName": "Modding-Lounge"
   },
   {
     "title": "Atomic Warfare",
@@ -78,6 +78,44 @@
     "version": "3.2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2023-12-12T12:01:10.1183812Z",
-    "repositoryName": ""
+    "repositoryName": "Modding-Lounge"
+  },
+  {
+    "title": "Wasteland Prospects",
+    "description": "Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won't be restricted to a complex setup with TTW, but instead focus your travels on Nevada. Take on a new look of New Vegas, with an ever growing list of graphical adjustments and improvements. Experience classic weapons with completely fresh and new animations and discover new weapons and equipment.",
+    "author": "Rage",
+    "maintainers": [
+      "github/Rage-GitHub"
+    ],
+    "game": "falloutnewvegas",
+    "official": false,
+    "tags": [
+      "Deleveled",
+      "Survival",
+      "Hardcore",
+      "Immersive"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://github.com/Rage-GitHub/Modding-Lounge/blob/main/Modlists/Wasteland%20Prospects/Logo.png",
+      "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki/WP-Main-Page",
+      "download": "https://authored-files.wabbajack.org/Wasteland%20Prospects.wabbajack_94d4deb1-3f43-41ae-b573-d28988458b1d",
+      "machineURL": "Wasteland-Prospects",
+      "discordURL": "https://discord.com/invite/fEBJYFnKsp"
+    },
+    "download_metadata": {
+      "Hash": "u750yLyKRqs=",
+      "Size": 357855151,
+      "NumberOfArchives": 757,
+      "SizeOfArchives": 26567628383,
+      "NumberOfInstalledFiles": 55569,
+      "SizeOfInstalledFiles": 48934908440
+    },
+    "version": "2.1.1",
+    "repositoryName": "Modding-Lounge"
   }
 ]
