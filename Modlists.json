@@ -23,21 +23,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/73801/73801-1699323911-677211687.png",
       "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki",
-      "download": "https://authored-files.wabbajack.org/Fable Lore.wabbajack_41156dbd-22b7-4832-b4a1-27d492d6031b",
+      "download": "https://authored-files.wabbajack.org/Fable Lore.wabbajack_224e7986-6fad-41c0-8548-e9cdc955817c",
       "machineURL": "Fable-Lore",
       "discordURL": "https://discord.com/invite/fEBJYFnKsp"
     },
     "download_metadata": {
-      "Hash": "7Sj+gSj9e5g=",
-      "Size": 265343472,
-      "NumberOfArchives": 1244,
-      "SizeOfArchives": 100970683183,
-      "NumberOfInstalledFiles": 381254,
-      "SizeOfInstalledFiles": 163618370404
+      "Hash": "e+SckXJuAo4=",
+      "Size": 261030307,
+      "NumberOfArchives": 1253,
+      "SizeOfArchives": 101550052389,
+      "NumberOfInstalledFiles": 379755,
+      "SizeOfInstalledFiles": 165006631521
     },
-    "version": "3.2.5",
+    "version": "3.2.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-12-07T12:15:28.8393653Z",
+    "dateUpdated": "2023-12-16T04:34:11.5779432Z",
     "repositoryName": "Modding-Lounge"
   },
   {
@@ -82,7 +82,7 @@
   },
   {
     "title": "Wasteland Prospects",
-    "description": "Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won't be restricted to a complex setup with TTW, but instead focus your travels on Nevada. Take on a new look of New Vegas, with an ever growing list of graphical adjustments and improvements. Experience classic weapons with completely fresh and new animations and discover new weapons and equipment.",
+    "description": "Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won\u0027t be restricted to a complex setup with TTW, but instead focus your travels on Nevada. Take on a new look of New Vegas, with an ever growing list of graphical adjustments and improvements. Experience classic weapons with completely fresh and new animations and discover new weapons and equipment.",
     "author": "Rage",
     "maintainers": [
       "github/Rage-GitHub"
@@ -116,6 +116,8 @@
       "SizeOfInstalledFiles": 48934908440
     },
     "version": "2.1.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": "Modding-Lounge"
   }
 ]
