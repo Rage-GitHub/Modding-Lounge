@@ -1,0 +1,78 @@
+<center>
+<h2><strong>Elegant Weapon Repositions</strong></h2>
+<hr /></center>
+<p>A methodical and optimal weapon reposition mod, for both BaS and vanilla weapons. Introduces a lot of Rising Storm 2: Vietnam, Ground Branch and Escape from Tarkov inspired weapon positions to give them a more surreal approach to point aiming, as well as alternate aiming sights. Gone are the days when your weapon blocks half of your screen when in a ready and lowered position.</p>
+<blockquote>
+<h3>Requirements</h3>
+</blockquote>
+<p>You need the following add-ons in order for things to function properly and as intended:</p>
+<ul>
+<li><a href="https://www.moddb.com/mods/stalker-anomaly/addons/blindsides-weapon-reanimation-and-rebalance-loner">Blindside's Weapon Reanimation and Rebalance - "Loner"</a></li>
+<li><a href="https://www.moddb.com/mods/stalker-anomaly/addons/lowered-weapon-sprint-animation">Lowered Weapon Sprint Animation</a></li>
+<li><a href="https://www.moddb.com/mods/stalker-anomaly/addons/boomsticks-and-sharpsticks">Boomsticks and Sharpsticks</a> (Only necessary for Optional BaS repositions)</li>
+<li><a href="https://www.moddb.com/mods/stalker-anomaly/addons/alternate-aim-sights-for-eft-reposition">EFT Weapon Reposition</a> &amp; <a href="https://www.moddb.com/mods/stalker-anomaly/addons/eft-weapon-reposition-updated-22-fix-for-bas-25102022">EFT Weapon Reposition updated - Compatibility BaS fix</a> (Only temporary for now, as I had adjusted the initial weapons with this enabled so the desired effect isn't as expected)</li>
+</ul>
+<blockquote>
+<h3>Recommendations</h3>
+</blockquote>
+<ul>
+<li><a href="https://www.moddb.com/mods/stalker-anomaly/addons/camera-reanimation-project-inertia">Camera Reanimation Project - I.N.E.R.T.I.A. (Helps emphasize the effects of guns)</a></li>
+<li><a href="https://www.moddb.com/mods/stalker-anomaly/addons/outfit-animations-v09">Outfit Animations</a></li>
+<li><a href="https://www.moddb.com/mods/stalker-anomaly/addons/headgear-animations">Headgear Animations</a></li>
+<li><a href="https://www.moddb.com/mods/stalker-anomaly/addons/no-camera-animations-when-injured">LESSER Camera sway when hit</a></li>
+</ul>
+<blockquote>
+<h3>Installation</h3>
+</blockquote>
+<p>Install via MO2, using the FOMOD and select the appropriate mods you have installed. Place anywhere in the load order and launch your game.</p>
+<blockquote>
+<h3>Reposition List</h3>
+</blockquote>
+<p>The current list of weapons repositioned are as follows (Used codenames in readable formats, name may not be 100% accurate):</p>
+<p><em><u>Vanilla Weapons</u></em></p>
+<ul>
+<li>AK-47</li>
+<li>PM</li>
+<li>Berreta</li>
+<li>CZ75</li>
+<li>G3</li>
+<li>M16</li>
+<li>SIG220</li>
+<li>SVDS</li>
+<li>TOZ-194</li>
+<li>UMP-45</li>
+<li>Winchester 1300</li>
+</ul>
+<p><em><u>Boomsticks and Sharpsticks</u></em></p>
+<ul>
+<li>PM</li>
+<li>AK12</li>
+<li>AK12 M1</li>
+<li>AK5C</li>
+<li>AK74</li>
+<li>AK74M</li>
+<li>AKM</li>
+<li>AR15 + Freedom</li>
+<li>AUG A1</li>
+<li>AUG A3</li>
+<li>AK74-N</li>
+<li>AK74M Beard</li>
+<li>AKM Alfa</li>
+<li>AR15</li>
+<li>FAL SA58</li>
+<li>HOWA 20</li>
+<li>L85 M1</li>
+<li>L85 M2</li>
+<li>L85 M3</li>
+<li>M4 Butcher</li>
+<li>M4 Tac</li>
+</ul>
+<p>More are to come, as this is only an early-access preview of what type of repositions to expect from me. Good hunting, Stalker.</p>
+<blockquote>
+<h3>Miscellaneous</h3>
+</blockquote>
+<p>Go check out my upcoming modpack, <a href="https://moddinglounge.com/divergent/">Divergent</a>, which features this mod! No more hand-holding, Stalker.</p>
+<p>You can also come join the <a href="https://discord.gg/fEBJYFnKsp">Modding Lounge</a> for other modpacks and modlists, support for S.T.A.L.K.E.R Anomaly, Fallout 4, Skyrim and more! Or just come chat it up with the community and see what other people are doing.</p>
+<center>
+<p><img src="https://media.moddb.com/images/downloads/1/267/266376/auto/Logo-Banner-1.png" alt="" width="2560" height="575" /></p>
+</center>
