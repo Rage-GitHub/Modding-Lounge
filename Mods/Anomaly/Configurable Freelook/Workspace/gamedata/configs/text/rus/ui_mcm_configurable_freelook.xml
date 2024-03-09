@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id=""ui_mcm_chrosshair_main_ui_mcm_menu_freelook_addon"">
+	<text>Настраиваемая фрилюка</text>
+	</string>
+	<string id=""ui_mcm_chrosshair_main_ui_mcm_freelook_addon_title"">
+		<text>Настраиваемая фрилюка</text>
+	</string>
+	<string id=""ui_mcm_chrosshair_main_ui_mcm_freelook_addon_freelook_val"">
+		<text>Предел фрилюка</text>
+	</string>
+	<string id=""ui_mcm_chrosshair_main_ui_mcm_freelook_addon_freelook_val_desc"">
+		<text>Устанавливает предел, на который может повернуться ваш фрилоку. Полезно для предотвращения обрезки вашей камеры с помощью перемещенных рук.</text>
+	</string>
+</string_table>

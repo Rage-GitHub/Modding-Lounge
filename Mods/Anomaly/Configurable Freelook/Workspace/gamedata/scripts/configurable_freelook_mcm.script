@@ -1,0 +1,26 @@
+local defaults = { ["freelook_val"] = 1.2 }
+
+function get_config(key)
+    if ui_mcm then return ui_mcm.get("freelook_addon/"..key) else return defaults[key] end
+end
+
+function on_mcm_load()
+    op = { id= "freelook_addon",sh=true ,gr={
+            { id= "title",type= "slide",link= "ui_options_slider_player",text="ui_mcm_freelook_addon_title",size= {512,50},spacing= 20 },
+            {id = "freelook_val", type = "track", val = 2, min=0.1,max=3,step=0.1, def = 1},
+        }
+    }
+    return op
+end
+
+function on_option_change()
+    if level.present() and db.actor then
+        local val = this.get_config("freelook_val")
+        exec_console_cmd("freelook_cam_limit " .. val)
+    end
+end
+
+function on_game_start()
+    RegisterScriptCallback("actor_on_first_update", on_option_change)
+    RegisterScriptCallback("on_option_change", on_option_change)
+end

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="ui_mcm_menu_freelook_addon">
+        <text>Configurable Freelook</text>
+    </string>
+	<string id="ui_mcm_freelook_addon_title">
+		<text>Configurable Freelook</text>
+	</string>
+	<string id="ui_mcm_freelook_addon_freelook_val">
+		<text>Freelook Limit</text>
+	</string>
+	<string id="ui_mcm_freelook_addon_freelook_val_desc">
+		<text>Sets the limit to which your freelook can rotate. Helpful for preventing your camera from clipping with arms that are repositioned.</text>
+	</string>
+</string_table>

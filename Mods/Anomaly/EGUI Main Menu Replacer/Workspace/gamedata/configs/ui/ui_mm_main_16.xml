@@ -1,0 +1,144 @@
+
+<!-- ENHANCED GUI © 2007 INCBOX INC TEAM -->
+
+<w>
+  	<background x="0" y="0" width="1024" height="768">
+		<auto_static x="0" y="0" width="1024" height="768" stretch="1">
+			<texture x="0" y="0" width="1280" height="720">ui\enhancedGUI_17</texture>
+		</auto_static>
+		<auto_static x="0" y="0" width="1024" height="768" stretch="1">
+			<texture>ui\enhancedGUI\ui_inc_overlay_shadow</texture>
+		</auto_static>
+		<auto_static x="-145" y="700" width="512" height="26" stretch="1">
+			<texture>ui\enhancedGUI\ui_inc_version</texture>
+		</auto_static>
+		<auto_static x="0" y="0" width="0" height="0" stretch="1">
+			<texture>ui\enhancedGUI\ui_inc_panel</texture>
+		</auto_static>
+		<auto_static x="0" y="717" width="1024" height="52" stretch="1">
+			<texture>ui\enhancedGUI\ui_inc_bottom</texture>
+		</auto_static>
+		<auto_static x="375" y="80" width="278.4" height="128" stretch="1">
+			<texture>logoSTALKER</texture>
+		</auto_static>
+		<auto_static x="886" y="732" width="35" height="28" stretch="1">
+			<texture>logoMODDB</texture>
+		</auto_static>		
+		<auto_static x="935" y="732" width="35" height="28" stretch="1">
+			<texture>logoGSC</texture>
+		</auto_static>
+		<auto_static x="978" y="732" width="35" height="28" stretch="1">
+			<texture>logoINC</texture>
+		</auto_static>
+		<auto_static x="835" y="713" width="40" height="57" stretch="1">
+			<texture>logo_AMCM</texture>
+		</auto_static>
+<!--	<auto_static x="930" y="590" width="94" height="134" stretch="1">
+			<texture>logoAMCM</texture>
+		</auto_static> -->
+    </background>
+
+	<shniaga_wnd x="365" y="320" width="392" height="450">
+		<buttons_region x="37" y="4" width="220" height="380" always_show_scroll="false" vert_interval="4"/>
+		<shniaga x="35" y="-20" width="225" height="61" stretch="1">
+			<texture>ui_inGame2_slider</texture>
+			<magnifire x="0" y="12" width="225" height="38" stretch="1">
+				<y_offset>0</y_offset>
+			</magnifire>
+		</shniaga>
+	</shniaga_wnd>
+
+	<button h="38"/>
+
+	<menu_main btn_height="38" font="graffiti22" a="255" r="240" g="240" b="240">
+		<btn name="btn_newgame"		caption="ui_mm_newgame" />
+		<btn name="btn_load"		caption="ui_mm_load_game" />
+		<btn name="btn_lastsave"	caption="ui_mm_last_save" />
+		<btn name="btn_credits"		caption="ui_mm_credits" />
+		<btn name="btn_options"		caption="ui_mm_options_n" />
+		<btn name="btn_mcm"			caption="ui_mm_menu_mcm" />
+		<btn name="btn_quit"		caption="ui_mm_quit2windows" />
+	</menu_main>
+
+	<menu_network_game btn_height="30" font="graffiti22" a="255" r="240" g="240" b="240">
+		<btn name="btn_internet"	caption="ui_mp_internet" />
+		<btn name="btn_localnet"	caption="ui_mp_localnet" />
+		<btn name="btn_new_back"    caption="ui_mm_back" />
+	</menu_network_game>
+
+	<menu_main_logout btn_height="30" font="graffiti22" a="255" r="240" g="240" b="240">
+		<btn name="btn_newgame"	  	caption="ui_mm_newgame" />
+		<btn name="btn_load"		caption="ui_mm_load_game" />
+		<btn name="btn_logout"		caption="ui_mm_logout" />
+		<btn name="btn_options"		caption="ui_mm_options_n" />
+		<btn name="btn_mcm"			caption="ui_mm_menu_mcm" />		
+		<btn name="btn_quit"		caption="ui_mm_quit2windows" />
+	</menu_main_logout>
+
+	<menu_main_last_save btn_height="30" font="graffiti22" a="255" r="240" g="240" b="240">
+		<btn name="btn_newgame"		caption="ui_mm_newgame" />
+		<btn name="btn_load"		caption="ui_mm_load_game" />
+		<btn name="btn_lastsave"	caption="ui_mm_last_save" />
+		<btn name="btn_options"		caption="ui_mm_options_n" />
+		<btn name="btn_mcm"			caption="ui_mm_menu_mcm" />
+		<btn name="btn_quit"		caption="ui_mm_quit2windows" />
+	</menu_main_last_save>
+
+	<menu_new_game btn_height="34" font="graffiti22" a="255" r="240" g="240" b="240">
+	    <btn name="btn_novice"		caption="ui_mm_novice" />
+		<btn name="btn_stalker"		caption="ui_mm_stalker" />
+		<btn name="btn_veteran"		caption="ui_mm_veteran" />
+		<btn name="btn_master"		caption="ui_mm_master" />
+		<btn name="btn_new_back"	caption="ui_mm_back" />
+	</menu_new_game>
+
+	<menu_main_single btn_height="34" font="graffiti22" a="255" r="240" g="240" b="240">
+    	<btn name="btn_ret"			caption="ui_mm_return_game" />
+		<btn name="btn_save"		caption="ui_mm_save_game" />
+		<btn name="btn_load"		caption="ui_mm_load_game" />
+		<btn name="btn_options"		caption="ui_mm_options_n" />
+		<btn name="btn_mcm"			caption="ui_mm_menu_mcm" />
+		<btn name="btn_credits"		caption="ui_mm_credits" />
+		<btn name="btn_quit_to_mm"	caption="ui_mm_quit_game" />
+		<btn name="btn_quit"		caption="ui_mm_quit2windows" />
+	</menu_main_single>
+
+	<menu_main_single_dead btn_height="34" font="graffiti22" a="255" r="240" g="240" b="240">
+	    <btn name="btn_lastsave"	caption="ui_mm_last_save" />
+		<btn name="btn_load"		caption="ui_mm_load_game" />
+		<btn name="btn_options"		caption="ui_mm_options_n" />
+		<btn name="btn_mcm"			caption="ui_mm_menu_mcm" />
+		<btn name="btn_credits"		caption="ui_mm_credits" />
+		<btn name="btn_quit_to_mm"	caption="ui_mm_quit_game" />
+		<btn name="btn_quit"		caption="ui_mm_quit2windows" />
+	</menu_main_single_dead>
+
+	<menu_main_mm btn_height="34" font="graffiti22" a="255" r="240" g="240" b="240">
+	    <btn name="btn_ret"         caption="ui_mm_return_game" />
+	    <btn name="btn_options"     caption="ui_mm_options_n" />
+		<btn name="btn_mcm"			caption="ui_mm_menu_mcm" />
+	    <btn name="btn_quit_to_mm"  caption="ui_mm_disconnect" />
+	    <btn name="btn_quit"        caption="ui_mm_quit_game" />
+	</menu_main_mm>
+
+
+	<menu_sound random="0" >
+		<whell_click>ui_menu_click</whell_click>
+		
+		<menu_music>music\pripyat_whispers_final</menu_music>
+    </menu_sound>
+
+
+	<static_version x="512" y="740">
+		<text align="c" font="letterica16" color="ui_white" complex_mode="0"/>
+	</static_version>
+	
+	<msg_wnd x="0" y="0" width="210" height="100">
+	    <background x="0" y="0" width="210" height="100">
+		    <texture>ui_icons_PDA_tooltips</texture>
+	    </background>
+	    <text x="20" y="20" width="190" height="100">
+	    	<text font="letterica18" color="ui_6" complex_mode="1" align="l" vert_align="t"/>
+	    </text>
+	</msg_wnd>
+</w>
