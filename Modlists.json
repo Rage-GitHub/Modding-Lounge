@@ -79,5 +79,45 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": "Modding-Lounge"
+  },
+  {
+    "title": "Atomic Warfare",
+    "description": "Welcome to Atomic Warfare, the last stop you will take into an amazingly modded world of Fallout 4. Experience what Fallout 4 should have been, offering a more immersive and challenging experience to the post-apocalyptic world that is Boston. Discover completely new parts of the world, or encase yourself in the amazing forests of Boston with complete overhauls of all foliage.",
+    "author": "Rage",
+    "maintainers": [
+      "github/Rage-GitHub"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "Deleveled",
+      "Survival",
+      "Hardcore",
+      "Immersive"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://staticdelivery.nexusmods.com/mods/1151/images/54871/54871-1662324141-1026227698.png",
+      "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki",
+      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_352022bf-28cc-4573-9a5b-cbb1ba4bba92",
+      "machineURL": "Atomic-Warfare",
+      "discordURL": "https://discord.com/invite/fEBJYFnKsp"
+    },
+    "download_metadata": {
+      "Hash": "LnMJnPRh52U=",
+      "Size": 10294901,
+      "NumberOfArchives": 414,
+      "SizeOfArchives": 41985679111,
+      "NumberOfInstalledFiles": 29696,
+      "SizeOfInstalledFiles": 47356557170
+    },
+    "version": "3.2.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-01-23T03:33:34.7842041Z",
+    "repositoryName": "Modding-Lounge"
   }
 ]
