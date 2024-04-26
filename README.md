@@ -44,7 +44,7 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 
 ### S.T.A.L.K.E.R Anomaly
 
-- [Divergent]() (Deprecated) [By Rage]
+- [Divergent](https://moddinglounge.com/divergent/) [By Rage]
   - A modlist focused on improving and increasing the exponetially challenging wasteland of S.T.A.L.K.E.R Anomaly, offering a focus on detailed survival, enhanced combat, fun and exciting new events, and more!
 
 ---
