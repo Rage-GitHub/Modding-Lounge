@@ -1,0 +1,32 @@
+
+function on_xml_read()
+	RegisterScriptCallback("on_xml_read", function(xml_file_name, xml_obj)
+		if xml_file_name == [[ui\ui_mm_main.xml]]
+        or xml_file_name == [[ui\ui_mm_main_16.xml]]
+        or xml_file_name == [[ui\ui_credits_16.xml]]
+		or xml_file_name == [[ui\ui_mm_faction_select.xml]]
+        or xml_file_name == [[ui\ui_mm_faction_select_16.xml]]
+		or xml_file_name == [[ui\ui_mm_load_dlg.xml]]
+        or xml_file_name == [[ui\ui_mm_load_dlg_16.xml]]
+		or xml_file_name == [[ui\ui_mm_save_dlg.xml]]
+        or xml_file_name == [[ui\ui_mm_save_dlg_16.xml]]
+        or xml_file_name == [[ui\ui_options.xml]]
+        or xml_file_name == [[ui\ui_options_16.xml]]
+        or xml_file_name == [[ui\ui_mcm.xml]]
+        or xml_file_name == [[ui\ui_mcm_16.xml]]
+        then
+
+		math.randomseed(os.time())
+
+			local res = xml_obj:query("background > auto_static > texture")
+        	local menu_t = {
+				"ui\\DG_Freedom"
+			}
+        	local picked_menu = menu_t[math.random(1, #menu_t)]
+			if res[1] then
+				el = res[1]
+				xml_obj:setText (el, picked_menu)
+			end
+		end
+	end)
+end

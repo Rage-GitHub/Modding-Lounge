@@ -1,0 +1,21 @@
+
+function on_xml_read()
+	RegisterScriptCallback("on_xml_read", function(xml_file_name, xml_obj)
+		if xml_file_name == [[ui\ui_mm_main.xml]] 
+        or xml_file_name == [[ui\ui_mm_main_16.xml]]
+        then
+		
+		math.randomseed(os.time())
+
+			local res = xml_obj:query("menu_sound > menu_music")
+        	local mus_t = {
+			"music\\mm_music\\track_1",
+			}
+        	local picked_track = mus_t[math.random(1, #mus_t)]
+			if res[1] then
+				el = res[1]
+				xml_obj:setText (el, picked_track)
+			end
+		end
+	end)
+end

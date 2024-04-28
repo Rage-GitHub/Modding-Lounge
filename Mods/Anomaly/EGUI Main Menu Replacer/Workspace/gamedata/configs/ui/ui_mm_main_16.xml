@@ -4,7 +4,7 @@
 <w>
   	<background x="0" y="0" width="1024" height="768">
 		<auto_static x="0" y="0" width="1024" height="768" stretch="1">
-			<texture x="0" y="0" width="1280" height="720">ui\enhancedGUI_17</texture>
+			<texture x="0" y="0" width="1920" height="1080">ui\Zaper_Background</texture>
 		</auto_static>
 		<auto_static x="0" y="0" width="1024" height="768" stretch="1">
 			<texture>ui\enhancedGUI\ui_inc_overlay_shadow</texture>
@@ -18,7 +18,7 @@
 		<auto_static x="0" y="717" width="1024" height="52" stretch="1">
 			<texture>ui\enhancedGUI\ui_inc_bottom</texture>
 		</auto_static>
-		<auto_static x="375" y="80" width="278.4" height="128" stretch="1">
+		<auto_static x="375" y="200" width="278.4" height="128" stretch="1">
 			<texture>logoSTALKER</texture>
 		</auto_static>
 		<auto_static x="886" y="732" width="35" height="28" stretch="1">

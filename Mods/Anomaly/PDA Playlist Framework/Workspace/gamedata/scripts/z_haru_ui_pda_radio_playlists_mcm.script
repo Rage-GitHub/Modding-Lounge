@@ -1,0 +1,87 @@
+--[[
+    Dynamic Playlist Count
+    Author: HarukaSai
+
+    Makes num_of_plyr in ui_pda_radio_tab be based on folder count instead of config value
+
+    17/03/2024
+]]
+
+function count_playlists()
+	local fs = getFS()
+	local flist = fs:file_list_open("$game_sounds$", "radio\\", bit_or(FS.FS_ListFolders, FS.FS_RootOnly))
+	local fsize = flist and flist:Size() or 0
+
+	local playlist_count = 0
+
+	if fsize > 0 then
+		for i = 0, fsize - 1 do
+			local folder_name = flist:GetAt(i)
+			
+			if folder_name:match("_playlist_%d+\\") then
+				playlist_count = playlist_count + 1
+			end
+		end
+	end
+	
+	return playlist_count
+end
+
+default_num_of_plyr = ui_pda_radio_tab.num_of_plyr -- store default value for later
+ui_pda_radio_tab.num_of_plyr = count_playlists()
+
+-- Just doing same thing as ui_pda_radio_tab
+
+-- start loop from new playlists
+for x = default_num_of_plyr + 1, ui_pda_radio_tab.num_of_plyr do
+	ui_pda_radio_tab.path_plyr[x] = "radio\\_playlist_" .. tostring(x) .."\\"	
+end
+
+for x = default_num_of_plyr + 1, ui_pda_radio_tab.num_of_plyr  do
+	ui_pda_radio_tab.plyr_tracks[x]         = {}
+	ui_pda_radio_tab.plyr_tracks_display[x] = {}
+	ui_pda_radio_tab.plyr_index[x]          = {}
+	ui_pda_radio_tab.plyr_now[x]            = 1
+	ui_pda_radio_tab.plyr_counter[x]        = {}
+
+	fileList = getFS():file_list_open("$game_sounds$", ui_pda_radio_tab.path_plyr[x], bit_or(FS.FS_ListFiles, FS.FS_RootOnly))		-- Reading the file list in music player directory
+	count = fileList and fileList:Size() or 0																		-- Get the number of files
+
+	if (count > 0) then
+		ui_pda_radio_tab.plyr_num_of_tracks[x] = count						-- Number of tracks of Music Player
+
+		for i = 1, count do
+			file = fileList:GetAt(i - 1):sub(1, -5)
+			ui_pda_radio_tab.plyr_tracks[x][i] = sound_object(ui_pda_radio_tab.path_plyr[x] .. file)
+			ui_pda_radio_tab.plyr_index[x][i] = i
+			ui_pda_radio_tab.plyr_tracks_display[x][i] = string.gsub(file, "_", " ")			-- Display name, get rid of underscore
+		end
+	else
+		ui_pda_radio_tab.plyr_num_of_tracks[x] = 1
+		ui_pda_radio_tab.plyr_tracks[x][1] = sound_object("radio\\no_sound")
+		ui_pda_radio_tab.plyr_index[x][1] = 1
+        ui_pda_radio_tab.plyr_tracks_display[x][1] = "No track" -- bug fix
+	end
+end
+
+local applied = false
+-- on_mcm_load fires on main menu, so we use it to change options list and add our new playlists
+function on_mcm_load()
+    if applied then return end
+    applied = true
+    
+    local radio_options = ui_options.options[2].gr[3].gr
+	local radio_size = #radio_options
+
+	for i = default_num_of_plyr + 1, ui_pda_radio_tab.num_of_plyr do
+
+		radio_size = radio_size + 1
+
+		radio_options[radio_size] = {
+            id= ("playlist_name_".. i),
+            type= "input",
+            val= 0,
+            def= {ui_options.def_radio_playlist, i}	
+        }
+	end
+end

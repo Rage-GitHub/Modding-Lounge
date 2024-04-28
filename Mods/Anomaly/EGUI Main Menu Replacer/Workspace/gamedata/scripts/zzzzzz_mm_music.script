@@ -1,0 +1,30 @@
+local snd
+local mus_t = {
+	"music\\mm_music\\track_1",
+}
+
+function main_menu_on_init()
+
+	math.randomseed(os.time())
+	local picked_track = mus_t[math.random(1, #mus_t)]
+	if not picked_track then return end
+	if snd then return end
+
+	snd = sound_object(picked_track)
+	if not snd then return end
+
+	snd:play(db.actor,0,sound_object.s2d)
+
+end
+
+function main_menu_on_quit()
+	if not snd then return end
+
+	snd:stop()
+	snd = nil
+end
+
+function on_game_start()
+	RegisterScriptCallback("main_menu_on_init", main_menu_on_init)
+	RegisterScriptCallback("main_menu_on_quit", main_menu_on_quit)
+end

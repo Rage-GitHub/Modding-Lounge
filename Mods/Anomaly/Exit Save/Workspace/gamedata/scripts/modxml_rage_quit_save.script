@@ -1,0 +1,15 @@
+function on_xml_read()
+    RegisterScriptCallback("on_xml_read", function(xml_file_name, xml_obj)
+        local xml_to_change = [[ui\ui_mm_main_16.xml]]
+
+        if xml_file_name == xml_to_change then
+            local quit_save = [[<btn name="btn_quitsave" caption="ui_mm_quitsave" />]]
+            local mm_single = xml_obj:query("menu_main_single")
+            local mm_single_dead = xml_obj:query("menu_main_single_dead")
+            if is_not_empty(mm_single) then
+                local el = mm_single[1]
+                xml_obj:insertFromXMLString(quit_save, el, #el.kids)
+            end
+        end
+    end)
+end
