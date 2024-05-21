@@ -63,21 +63,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/130/images/80145/80145-1677915100-934724828.png",
       "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki/WP-Main-Page",
-      "download": "https://authored-files.wabbajack.org/Wasteland Prospects.wabbajack_4e9a7de4-ecc0-40a6-a5b8-a918789a54b0",
+      "download": "https://authored-files.wabbajack.org/Wasteland Prospects.wabbajack_151166db-cdd8-47db-80fc-1a355958a7e0",
       "machineURL": "Wasteland-Prospects",
       "discordURL": "https://discord.com/invite/fEBJYFnKsp"
     },
     "download_metadata": {
-      "Hash": "4PLLLf0S4vk=",
-      "Size": 808432191,
-      "NumberOfArchives": 625,
-      "SizeOfArchives": 36239608206,
-      "NumberOfInstalledFiles": 117544,
-      "SizeOfInstalledFiles": 58957055773
+      "Hash": "vXqEGTWDmNc=",
+      "Size": 808042374,
+      "NumberOfArchives": 633,
+      "SizeOfArchives": 36249217394,
+      "NumberOfInstalledFiles": 92423,
+      "SizeOfInstalledFiles": 57801042580
     },
-    "version": "3.4.1",
+    "version": "3.4.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-18T02:54:09.691075Z",
+    "dateUpdated": "2024-05-21T10:59:36.8432218Z",
     "repositoryName": "Modding-Lounge"
   },
   {
