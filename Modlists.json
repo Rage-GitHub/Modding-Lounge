@@ -103,21 +103,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1151/images/54871/54871-1662324141-1026227698.png",
       "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki",
-      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_7841ae5e-2272-4d2a-b1a4-afb6ec5fbe6c",
+      "download": "https://authored-files.wabbajack.org/Atomic Warfare.wabbajack_ffceaafb-e2ff-4e79-8c64-c1b69fc27c38",
       "machineURL": "Atomic-Warfare",
       "discordURL": "https://discord.com/invite/fEBJYFnKsp"
     },
     "download_metadata": {
-      "Hash": "AtGfCKHLdIM=",
-      "Size": 113647092,
-      "NumberOfArchives": 658,
-      "SizeOfArchives": 105405107552,
-      "NumberOfInstalledFiles": 83044,
-      "SizeOfInstalledFiles": 120609603211
+      "Hash": "WN9TLDKktxQ=",
+      "Size": 164143938,
+      "NumberOfArchives": 775,
+      "SizeOfArchives": 112713878249,
+      "NumberOfInstalledFiles": 77330,
+      "SizeOfInstalledFiles": 126960279104
     },
-    "version": "3.5.1",
+    "version": "3.6.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-31T04:26:58.8726747Z",
+    "dateUpdated": "2024-06-22T09:27:05.1668826Z",
     "repositoryName": "Modding-Lounge"
   }
 ]
