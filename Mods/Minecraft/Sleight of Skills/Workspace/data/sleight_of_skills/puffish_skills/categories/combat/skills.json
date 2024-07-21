@@ -1,0 +1,134 @@
+{
+	"6etf4b09owp7xvs8": {
+		"definition": "root_melee_damage+5%",
+		"x": -224,
+		"y": -32,
+		"root": true
+	},
+	"3v2weyp25q52pgtn": {
+		"definition": "root_ranged_damage+5%",
+		"x": -224,
+		"y": 32,
+		"root": true
+	},
+	"zv6j9lb7qu8hjrq6": {
+		"definition": "ranged_damage+1%",
+		"x": -160,
+		"y": 32,
+		"root": false
+	},
+	"ry6cu4j01ztjviwg": {
+		"definition": "health+1",
+		"x": -160,
+		"y": 64,
+		"root": false
+	},
+	"4um66tvos7eszt1b": {
+		"definition": "healing+2%",
+		"x": -128,
+		"y": 96,
+		"root": false
+	},
+	"otold7ror7rpvlpw": {
+		"definition": "melee_damage+1%",
+		"x": -160,
+		"y": -32,
+		"root": false
+	},
+	"i0cm72nerpu8cj17": {
+		"definition": "health+2",
+		"x": -160,
+		"y": -64,
+		"root": false
+	},
+	"c0d0i3mfj27h2j40": {
+		"definition": "stamina+3%",
+		"x": -64,
+		"y": -32,
+		"root": false
+	},
+	"6xt8pibhktjgugar": {
+		"definition": "jump+1%",
+		"x": -64,
+		"y": 32,
+		"root": false
+	},
+	"7cw684idg3uxlhsy": {
+		"definition": "movement_speed+2%",
+		"x": -64,
+		"y": -64,
+		"root": false
+	},
+	"w43o2pwrz73i8514": {
+		"definition": "resistance+1%",
+		"x": -32,
+		"y": -96,
+		"root": false
+	},
+	"635tlxph7y3plli4": {
+		"definition": "melee_damage+1%",
+		"x": 32,
+		"y": -32,
+		"root": false
+	},
+	"20ma5irtrddb7fnf": {
+		"definition": "health+1",
+		"x": 32,
+		"y": -64,
+		"root": false
+	},
+	"r24rkn2pvl4l40sp": {
+		"definition": "healing+2%",
+		"x": 64,
+		"y": -96,
+		"root": false
+	},
+	"wqs3h4i1do4244bw": {
+		"definition": "stamina+3%",
+		"x": 128,
+		"y": -32,
+		"root": false
+	},
+	"kd4mtrwjgvppvls2": {
+		"definition": "resistance+1%",
+		"x": -64,
+		"y": 64,
+		"root": false
+	},
+	"ac33udjqozgxwxtq": {
+		"definition": "stamina+3%",
+		"x": -32,
+		"y": 96,
+		"root": false
+	},
+	"uvrna085scajr2jx": {
+		"definition": "movement_speed+2%",
+		"x": 64,
+		"y": 96,
+		"root": false
+	},
+	"fleuqnpq7ktmynqs": {
+		"definition": "ranged_damage+1%",
+		"x": 32,
+		"y": 32,
+		"root": false
+	},
+	"tpembicpuz5a5o7n": {
+		"definition": "stamina+3%",
+		"x": 32,
+		"y": 64,
+		"root": false
+	},
+	"2diqqiter20d3zp7": {
+		"definition": "jump+1%",
+		"x": 128,
+		"y": 32,
+		"root": false
+	},
+	"2l4drka0vszppvq0": {
+		"definition": "health+1",
+		"x": -128,
+		"y": -96,
+		"root": false
+	}
+}

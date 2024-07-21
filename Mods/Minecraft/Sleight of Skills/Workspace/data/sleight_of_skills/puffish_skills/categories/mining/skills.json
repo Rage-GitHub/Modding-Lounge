@@ -1,0 +1,80 @@
+{
+	"12ovicxjz3shcqmf": {
+		"definition": "root_health+2",
+		"x": -180,
+		"y": -30,
+		"root": true
+	},
+	"ls03xaqd1yh7205v": {
+		"definition": "fortune+0.1",
+		"x": -120,
+		"y": -30,
+		"root": false
+	},
+	"lnxwzoitsrw21pjd": {
+		"definition": "health+1",
+		"x": -120,
+		"y": 30,
+		"root": false
+	},
+	"pzu90pbq7fi9yzg8": {
+		"definition": "mining_speed+2%",
+		"x": -60,
+		"y": 0,
+		"root": false
+	},
+	"c43whopa73skxgrf": {
+		"definition": "jump+2%",
+		"x": -90,
+		"y": 60,
+		"root": false
+	},
+	"fwlqs3q9ofmmtb6d": {
+		"definition": "fortune+0.1",
+		"x": -30,
+		"y": 30,
+		"root": false
+	},
+	"25obaf0etg87ct6s": {
+		"definition": "health+1",
+		"x": -30,
+		"y": -30,
+		"root": false
+	},
+	"rko0okuhfh90jtm2": {
+		"definition": "root_mining_speed+5%",
+		"x": -180,
+		"y": 30,
+		"root": true
+	},
+	"9x84xd6k455zhvin": {
+		"definition": "boost_mining_speed+20%",
+		"x": 60,
+		"y": 0,
+		"root": false
+	},
+	"a8de182mpd09wthg": {
+		"definition": "mining_speed+2%",
+		"x": 0,
+		"y": 0,
+		"root": false
+	},
+	"wtsmwefafas24tc4": {
+		"definition": "healing+5%",
+		"x": 30,
+		"y": 30,
+		"root": false
+	},
+	"53n3qdryvxgtk3vu": {
+		"definition": "fortune+0.1",
+		"x": 30,
+		"y": -30,
+		"root": false
+	},
+	"22c5zq0pw3b7c0dp": {
+		"definition": "healing+5%",
+		"x": -90,
+		"y": -60,
+		"root": false
+	}
+}

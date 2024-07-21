@@ -1,0 +1,184 @@
+{
+	"root_health+2": {
+		"title": "+2 Heart",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "z85jhfgcbc2kv1ef"
+		}
+	},
+	"root_mining_speed+5%": {
+		"title": "+5% Mining Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "1g9xbfsfuog3ts56"
+		}
+	},
+	"boost_mining_speed+20%": {
+		"title": "+20% Mining Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.2,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "1g9xbfsfuog3ts56"
+		}
+	},
+	"fortune+0.1": {
+		"title": "+0.05 Fortune",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.fortune",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "rvet3uxi3udnvb8b"
+		}
+	},
+	"health+1": {
+		"title": "+1 Heart",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "0cmvkx51x6gzddfq"
+		}
+	},
+	"healing+5%": {
+		"title": "+2% Healing",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.02,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "fefso02gjqkv6ih5"
+		}
+	},
+	"mining_speed+2%": {
+		"title": "+2% Mining Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "haste"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.mining_speed",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "pfs0lovd8vwl4bb1"
+		}
+	},
+	"jump+2%": {
+		"title": "+2% Jump",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "jump_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.jump",
+					"value": 0.02,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "7mwyelrchwo4kkgd"
+		}
+	}
+}
