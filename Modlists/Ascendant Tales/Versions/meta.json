@@ -2,6 +2,23 @@
     "schemaVersion": 1,
     "hotfixesFormat": null,
     "versions": [
-   
+      {
+        "id": "0.8.0",
+        "releasedAt": 1721432880,
+        "promotions": {
+            "downloads": {
+              "modrinth": "https://modrinth.com/modpack/ascendant-tales"
+          }
+        }
+      },
+      {
+        "id": "0.7.0",
+        "releasedAt": 1721218380,
+        "promotions": {
+            "downloads": {
+              "modrinth": "https://modrinth.com/modpack/ascendant-tales"
+          }
+        }
+      }
     ]
   }
