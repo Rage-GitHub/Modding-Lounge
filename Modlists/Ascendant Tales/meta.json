@@ -40,7 +40,18 @@
             "modrinth": "https://modrinth.com/modpack/ascendant-tales"
         }
       },
-      "updateType": "incompatible"
+      "updateType": "minor"
+    }
+    },
+    {
+      "id": "0.9.2",
+      "releasedAt": 1721625480000,
+      "promotions": {
+          "downloads": {
+            "modrinth": "https://modrinth.com/modpack/ascendant-tales"
+        }
+      },
+      "updateType": "minor"
     }
   ]
 }
