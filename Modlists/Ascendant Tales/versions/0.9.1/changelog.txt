@@ -1,0 +1,3 @@
+## REVISED
+- FancyMenu
+    - Fixed some configuration options to address misplaced buttons
