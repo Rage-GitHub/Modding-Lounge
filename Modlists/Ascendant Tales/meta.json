@@ -24,7 +24,17 @@
     },
     {
       "id": "0.9.0",
-      "releasedAt": 1721432880000,
+      "releasedAt": 1721625480000,
+      "promotions": {
+          "downloads": {
+            "modrinth": "https://modrinth.com/modpack/ascendant-tales"
+        }
+      },
+      "updateType": "incompatible"
+    },
+    {
+      "id": "0.9.1",
+      "releasedAt": 1721625480000,
       "promotions": {
           "downloads": {
             "modrinth": "https://modrinth.com/modpack/ascendant-tales"
