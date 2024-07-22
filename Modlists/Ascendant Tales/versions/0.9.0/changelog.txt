@@ -1,0 +1,45 @@
+This update is incompatible with any world on previous versions. You may attempt to load the world, but note any issues you have will be due to a world from an older version of the modpack.
+
+## ADDED
+### Mods
+- Aquamirae
+- Nyf's Spiders
+- Immersive Aircraft
+- Immersive Armors
+- Immersive Melodies
+- Immersive Weathering
+- Forsaken Corpses
+- Shoulder Surfing Reloaded
+- Passable Foliage 🌳
+- Small Ships
+- Rare Ice
+- Modpack Update Checker
+- Screenshot Viewer
+- Controlling
+### Datapacks
+- Better Aquamirae Combat
+### Resource Packs
+- Hellim's 3D Blocks
+
+## REMOVED
+### Mods
+- Eureka! Ships! for Valkyrien Skies
+- Valkyrien Skies
+- Create: Interactive
+- Better Third Person
+- Essential Mod
+### Datapacks
+- Day Counter
+
+## UPDATED
+### Mods
+- Create: Copycats+
+- Geophilic
+- Sounds
+
+## REVISED
+### Mods
+- SpoiledZ
+    - Changed spoil rate from 4 seasons to 8 seasons
+- Sparse Structures
+    - Changed spreadFactor from 2 to 1.6
