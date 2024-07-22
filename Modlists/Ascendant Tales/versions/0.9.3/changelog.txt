@@ -1,0 +1,5 @@
+## REVISED
+- FancyMenu
+    - Fixed SP pause menu as well
+- Default Options
+    - Updated default game settings 
