@@ -1,0 +1,15 @@
+The two food values in food tooltips is a known issue and has something to do with Obscure API. This has been addressed by the author and will be fixed in the next update of Obscure API.
+
+## ADDED
+- Crawl
+### Shaderpacks
+- BSL Shaders
+
+## UPDATED
+- [Let's Do] Bakery
+
+## REVISED
+- FancyMenu
+    - Fixed SP and MP pause menus, again. Separated screens and created individual layouts for each one.
+- Game Settings
+    - Updated some keybinds and game settings
