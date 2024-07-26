@@ -1,0 +1,6 @@
+## REMOVED
+- Default Options
+
+## REVISED
+- Your Options Shall be Respected
+    - Updated default options.txt config
