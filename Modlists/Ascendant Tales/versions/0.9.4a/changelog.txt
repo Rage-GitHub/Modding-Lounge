@@ -1,0 +1,9 @@
+A quick hotfix to address a potential issue with some recipes causing a oversized payload issue.
+
+## ADDED
+- Packet Fixer
+
+## REVISED
+- Universal Graves
+    - Changed ***non_owner_protection_time*** from 15 minutes to 45 minutes
+    - Changed ***self_destruction_time*** from 30 minutes to 1 hour
