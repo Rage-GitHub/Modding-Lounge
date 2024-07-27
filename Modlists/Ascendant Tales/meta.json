@@ -101,6 +101,16 @@
         }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "0.9.5",
+      "releasedAt": 1722031200000,
+      "promotions": {
+          "downloads": {
+            "modrinth": "https://modrinth.com/modpack/ascendant-tales"
+        }
+      },
+      "updateType": "minor"
     }
   ]
 }

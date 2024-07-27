@@ -1,0 +1,5 @@
+## ADDED
+- JourneyMap
+
+## REMOVED
+- Xaeros Map & Minimap
