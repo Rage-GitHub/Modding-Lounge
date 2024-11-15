@@ -21,7 +21,7 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 
 ### Fallout 4
 
-- [Atomic Warfare](https://github.com/Rage-GitHub/Modding-Lounge/wiki/AW-Main-Page) [By Rage]
+- [Atomic Warfare](https://github.com/Rage-GitHub/Modding-Lounge/wiki/AW-Main-Page) (Deprecated) [By Rage]
   - Atomic Warfare is an immersive overhauled, hardcore Tarkov/S.T.A.L.K.E.R.-like experience with amazing combat and new gameplay mechanics. With hundreds of hours of new Quests and New Lands to explore, you're surely to be bound to playing with endless entertainment.
 
 ---
@@ -30,14 +30,14 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 
 - [Wasteland Prospects](https://github.com/Rage-GitHub/Modding-Lounge/wiki/WP-Main-Page) [By Rage]
   - Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won't be restricted to a complex setup with TTW, but instead focus your travels on Nevada.
-- [The Badlands]() [By Rage]
+- [The Badlands]() (Deprecated) [By Rage]
   - Open-Beta testing for an upcoming TTW modlist, The Badlands. Featured as the sister modlist to Wasteland Prospects, this aims to bring most of the features from WP to a TTW-based setup.
 
 ---
 
 ### Skyrim Anniversary Edition
 
-- [Fable Lore](https://github.com/Rage-GitHub/Modding-Lounge/wiki/FL-Main-Page) [By Rage]
+- [Fable Lore](https://github.com/Rage-GitHub/Modding-Lounge/wiki/FL-Main-Page) (Deprecated) [By Rage]
   - An Anniversary Edition based Modlist, with modernizing combat, a survival focus, lore and content expansion, and more than 4 new major DLC-mods to explore. Maintained to be lightweight, small and non-ENB, this list is perfect for any user looking for an expanded version of Skyrim.
 
 ---
