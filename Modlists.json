@@ -1,5 +1,5 @@
 [
-    {
+  {
     "title": "Wasteland Prospects",
     "description": "Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won\u0027t be restricted to a complex setup with TTW, but instead focus your travels on Nevada. Take on a new look of New Vegas, with an ever growing list of graphical adjustments and improvements. Experience classic weapons with completely fresh and new animations and discover new weapons and equipment.",
     "author": "Rage",
@@ -22,21 +22,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/130/images/80145/80145-1677915100-934724828.png",
       "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki/WP-Main-Page",
-      "download": "https://authored-files.wabbajack.org/Wasteland Prospects.wabbajack_b78e45a9-d6a5-4225-97c2-51a0ca5c92ca",
+      "download": "https://authored-files.wabbajack.org/Wasteland Prospects.wabbajack_cc7ee63b-a2df-4029-a478-ab24326a20c9",
       "machineURL": "Wasteland-Prospects",
       "discordURL": "https://discord.com/invite/fEBJYFnKsp"
     },
     "download_metadata": {
-      "Hash": "/MLXTCp6au4=",
-      "Size": 826096793,
-      "NumberOfArchives": 1084,
-      "SizeOfArchives": 44506391549,
-      "NumberOfInstalledFiles": 93695,
-      "SizeOfInstalledFiles": 68076676417
+      "Hash": "pjsv8nvURUg=",
+      "Size": 828968577,
+      "NumberOfArchives": 1091,
+      "SizeOfArchives": 46225587657,
+      "NumberOfInstalledFiles": 73088,
+      "SizeOfInstalledFiles": 70369064461
     },
-    "version": "3.4.4",
+    "version": "3.4.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-06-15T23:22:58.6322583Z",
+    "dateUpdated": "2025-01-21T23:40:13.7792602Z",
     "repositoryName": "Modding-Lounge"
   }
 ]
