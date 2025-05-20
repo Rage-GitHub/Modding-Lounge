@@ -42,7 +42,6 @@
     "repositoryName": "Modding-Lounge"
   },
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The Badlands",
     "description": "Delve into a rich and excitingly large modded experience, combining two amazing games into one with completely overhauled gameplay and graphics. Featuring Tale of Two Wastelands, which merges Fallout 3 into Fallout: New Vegas.",
     "author": "Rage",
@@ -50,6 +49,7 @@
       "github/Rage-GitHub"
     ],
     "game": "falloutnewvegas",
+    "official": false,
     "tags": [
       "Deleveled",
       "Survival",
@@ -57,15 +57,30 @@
       "Immersive"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://staticdelivery.nexusmods.com/mods/130/images/80291/80291-1682316297-1485164876.jpeg",
       "readme": "https://moddinglounge.com/the-badlands/installation",
+      "download": "https://authored-files.wabbajack.org/The Badlands.wabbajack_640ff960-dc6a-4a60-879f-2d36a0e0603b",
       "machineURL": "The-Badlands",
-      "discordURL": "https://discord.com/invite/fEBJYFnKsp"
+      "discordURL": "https://discord.com/invite/fEBJYFnKsp",
+      "websiteURL": ""
     },
-    "version": "1.0.0"
+    "download_metadata": {
+      "Hash": "JcTlY0Ba32Y=",
+      "Size": 4965399,
+      "NumberOfArchives": 877,
+      "SizeOfArchives": 25687556149,
+      "NumberOfInstalledFiles": 76557,
+      "SizeOfInstalledFiles": 44512138060,
+      "TotalSize": 70199694209
+    },
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-05-20T06:26:37.4933868Z",
+    "repositoryName": ""
   }
 ]
