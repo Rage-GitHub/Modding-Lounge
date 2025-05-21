@@ -64,23 +64,23 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/130/images/80291/80291-1682316297-1485164876.jpeg",
       "readme": "https://moddinglounge.com/the-badlands/installation",
-      "download": "https://authored-files.wabbajack.org/The Badlands.wabbajack_640ff960-dc6a-4a60-879f-2d36a0e0603b",
+      "download": "https://authored-files.wabbajack.org/The Badlands.wabbajack_4da9fb39-8784-4517-889d-e4b0e2eb3c7b",
       "machineURL": "The-Badlands",
       "discordURL": "https://discord.com/invite/fEBJYFnKsp",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "JcTlY0Ba32Y=",
-      "Size": 4965399,
-      "NumberOfArchives": 877,
-      "SizeOfArchives": 25687556149,
-      "NumberOfInstalledFiles": 76557,
-      "SizeOfInstalledFiles": 44512138060,
-      "TotalSize": 70199694209
+      "Hash": "DUKLLhCV1BA=",
+      "Size": 4964115,
+      "NumberOfArchives": 876,
+      "SizeOfArchives": 25687549568,
+      "NumberOfInstalledFiles": 76552,
+      "SizeOfInstalledFiles": 44512092587,
+      "TotalSize": 70199642155
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-05-20T06:26:37.4933868Z",
+    "dateUpdated": "2025-05-21T01:56:08.7482126Z",
     "repositoryName": ""
   }
 ]
