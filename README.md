@@ -12,10 +12,18 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 
 ---
 
-### Starfield
+### Fallout: New Vegas
 
-- [Stellar Synergy]() (Soon<sup>TM</sup>) [By Rage]
-  - An upcoming modlist for Starfield that will feature a unique taste in modding the game. 
+- [Wasteland Prospects](https://moddinglounge.com/wasteland-prospects/) [By Rage]
+  - Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won't be restricted to a complex setup with TTW, but instead focus your travels on Nevada.
+- [The Badlands](https://moddinglounge.com/the-badlands/) [By Rage]
+  - The Badlands is a TTW-based modlist, created upon a similar foundation to Wasteland Prospects, instead this modlist aims to expand more into the Capital Wasteland. The goal is to provide a similar experience to the modlist Wasteland Prospects while offering a smooth, stable and enjoyable modded experience for Fallout 3 and Fallout: New Vegas.
+---
+
+### Skyrim Anniversary Edition
+
+- [Fable Lore](https://github.com/Rage-GitHub/Modding-Lounge/wiki/FL-Main-Page) (Deprecated) [By Rage]
+  - An Anniversary Edition based Modlist, with modernizing combat, a survival focus, lore and content expansion, and more than 4 new major DLC-mods to explore. Maintained to be lightweight, small and non-ENB, this list is perfect for any user looking for an expanded version of Skyrim.
 
 ---
 
@@ -26,25 +34,9 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 
 ---
 
-### Fallout: New Vegas
-
-- [Wasteland Prospects](https://github.com/Rage-GitHub/Modding-Lounge/wiki/WP-Main-Page) [By Rage]
-  - Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won't be restricted to a complex setup with TTW, but instead focus your travels on Nevada.
-- [The Badlands]() (Deprecated) [By Rage]
-  - Open-Beta testing for an upcoming TTW modlist, The Badlands. Featured as the sister modlist to Wasteland Prospects, this aims to bring most of the features from WP to a TTW-based setup.
-
----
-
-### Skyrim Anniversary Edition
-
-- [Fable Lore](https://github.com/Rage-GitHub/Modding-Lounge/wiki/FL-Main-Page) (Deprecated) [By Rage]
-  - An Anniversary Edition based Modlist, with modernizing combat, a survival focus, lore and content expansion, and more than 4 new major DLC-mods to explore. Maintained to be lightweight, small and non-ENB, this list is perfect for any user looking for an expanded version of Skyrim.
-
----
-
 ### S.T.A.L.K.E.R Anomaly
 
-- [Divergent](https://moddinglounge.com/divergent/) [By Rage]
+- [Divergent](https://moddinglounge.com/divergent/) (Deprecated) [By Rage]
   - A modlist focused on improving and increasing the exponetially challenging wasteland of S.T.A.L.K.E.R Anomaly, offering a focus on detailed survival, enhanced combat, fun and exciting new events, and more!
 
 ---
