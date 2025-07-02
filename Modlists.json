@@ -1,47 +1,5 @@
 [
   {
-    "title": "Wasteland Prospects",
-    "description": "Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won\u0027t be restricted to a complex setup with TTW, but instead focus your travels on Nevada. Take on a new look of New Vegas, with an ever growing list of graphical adjustments and improvements. Experience classic weapons with completely fresh and new animations and discover new weapons and equipment.",
-    "author": "Rage",
-    "maintainers": [
-      "github/Rage-GitHub"
-    ],
-    "game": "falloutnewvegas",
-    "official": false,
-    "tags": [
-      "Deleveled",
-      "Survival",
-      "Hardcore",
-      "Immersive"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://staticdelivery.nexusmods.com/mods/130/images/80145/80145-1677915100-934724828.png",
-      "readme": "https://github.com/Rage-GitHub/Modding-Lounge/wiki/WP-Main-Page",
-      "download": "https://authored-files.wabbajack.org/Wasteland Prospects.wabbajack_f74d94ff-8a66-4d41-a540-5964a8743166",
-      "machineURL": "Wasteland-Prospects",
-      "discordURL": "https://discord.com/invite/fEBJYFnKsp",
-      "websiteURL": ""
-    },
-    "download_metadata": {
-      "Hash": "vsLae72wW8I=",
-      "Size": 339913745,
-      "NumberOfArchives": 1137,
-      "SizeOfArchives": 50500551658,
-      "NumberOfInstalledFiles": 101203,
-      "SizeOfInstalledFiles": 78187287487,
-      "TotalSize": 128687839145
-    },
-    "version": "3.7.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-05-20T04:37:05.1853598Z",
-    "repositoryName": "Modding-Lounge"
-  },
-  {
     "title": "The Badlands",
     "description": "Delve into a rich and excitingly large modded experience, combining two amazing games into one with completely overhauled gameplay and graphics. Featuring Tale of Two Wastelands, which merges Fallout 3 into Fallout: New Vegas.",
     "author": "Rage",
