@@ -14,10 +14,12 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 
 ### Fallout: New Vegas
 
-- [Wasteland Prospects](https://moddinglounge.com/wasteland-prospects/) [By Rage]
-  - Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won't be restricted to a complex setup with TTW, but instead focus your travels on Nevada.
-- [The Badlands](https://moddinglounge.com/the-badlands/) [By Rage]
+- [A Blue Moon](https://moddinglounge.com/curations/a-blue-moon/) [By Jyggalag]
+  - Rediscover New Vegas in a new fashion, with pleasing visual upgrades and new gameplay mechanics. A Blue Moon takes you on a hardcore journey with overhauled gameplay, while still preserving that original feel of Fallout: New Vegas.
+- [The Badlands](https://moddinglounge.com/curations/the-badlands/) [By Rage]
   - The Badlands is a TTW-based modlist, created upon a similar foundation to Wasteland Prospects, instead this modlist aims to expand more into the Capital Wasteland. The goal is to provide a similar experience to the modlist Wasteland Prospects while offering a smooth, stable and enjoyable modded experience for Fallout 3 and Fallout: New Vegas.
+- [Wasteland Prospects](https://moddinglounge.com/curations/wasteland-prospects/) [By Rage]
+  - Explore Nevada all over again, with a new and invigorating look on the Wasteland. Explore new areas, meet new friends, take on challenging enemies, and see what New Vegas is all about. Featured as just a New Vegas modlist, you won't be restricted to a complex setup with TTW, but instead focus your travels on Nevada.
 ---
 
 ### Skyrim Anniversary Edition
@@ -36,7 +38,7 @@ Find each Modlist below for the corresponding game that you wish to view, as wel
 
 ### S.T.A.L.K.E.R Anomaly
 
-- [Divergent](https://moddinglounge.com/divergent/) (Deprecated) [By Rage]
+- [Divergent](https://moddinglounge.com/curations/divergent/) (Deprecated) [By Rage]
   - A modlist focused on improving and increasing the exponetially challenging wasteland of S.T.A.L.K.E.R Anomaly, offering a focus on detailed survival, enhanced combat, fun and exciting new events, and more!
 
 ---
