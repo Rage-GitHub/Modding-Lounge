@@ -65,23 +65,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/refs/heads/main/Modlists/A%20Blue%20Moon/Logo.png",
       "readme": "https://moddinglounge.com/curations/a-blue-moon/installation",
-      "download": "https://authored-files.wabbajack.org/A Blue Moon.wabbajack_d5b1cafe-1d20-4701-99bf-04e4022ded63",
+      "download": "https://authored-files.wabbajack.org/A Blue Moon.wabbajack_de7af0e1-c4d1-45de-b308-5ac4892da381",
       "machineURL": "A-Blue-Moon",
       "discordURL": "https://discord.com/invite/fEBJYFnKsp",
       "websiteURL": "https://moddinglounge.com/curations/a-blue-moon/"
     },
     "download_metadata": {
-      "Hash": "ubyRQgfOfz8=",
-      "Size": 4045013298,
-      "NumberOfArchives": 1270,
-      "SizeOfArchives": 56868861291,
+      "Hash": "OzqNGqRotpw=",
+      "Size": 4045013996,
+      "NumberOfArchives": 1269,
+      "SizeOfArchives": 56856589942,
       "NumberOfInstalledFiles": 171078,
       "SizeOfInstalledFiles": 155757219989,
-      "TotalSize": 212626081280
+      "TotalSize": 212613809931
     },
     "version": "1.1.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-12-22T16:51:46.2496751Z",
+    "dateUpdated": "2025-12-22T18:03:45.0258617Z",
     "repositoryName": ""
   }
 ]
