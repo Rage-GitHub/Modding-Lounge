@@ -61,7 +61,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/refs/heads/main/Modlists/A%20Blue%20Moon/Logo.png",
       "readme": "https://moddinglounge.com/curations/a-blue-moon/installation",
@@ -86,3 +86,4 @@
   }
 
 ]
+
