@@ -63,12 +63,12 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/refs/heads/main/Modlists/A%20Blue%20Moon/Logo.png",
-      "readme": "https://moddinglounge.com/curations/a-blue-moon/installation",
+      "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/refs/heads/main/Modlists/A%20Blue%20Moon/A%20Blue%20Moon.webp",
+      "readme": "https://moddinglounge.com/modlists/ud2woh5rglxqpesnoodr8xml#requirements",
       "download": "https://authored-files.wabbajack.org/A Blue Moon.wabbajack_1e9f33f3-313a-4776-ab54-789a6cd4bb85",
       "machineURL": "A-Blue-Moon",
       "discordURL": "https://discord.com/invite/fEBJYFnKsp",
-      "websiteURL": "https://moddinglounge.com/curations/a-blue-moon/"
+      "websiteURL": "https://moddinglounge.com/modlists/ud2woh5rglxqpesnoodr8xml"
     },
     "download_metadata": {
       "Hash": "DCHXtm7jCYo=",
@@ -84,4 +84,5 @@
     "dateUpdated": "2026-02-24T01:13:02.9616715Z",
     "repositoryName": ""
   }
+
 ]
