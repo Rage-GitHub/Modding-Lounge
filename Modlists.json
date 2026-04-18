@@ -26,7 +26,8 @@
       "download": "https://authored-files.wabbajack.org/The Badlands.wabbajack_7ceee9a1-c7de-46fb-838f-09a77a1437a7",
       "machineURL": "The-Badlands",
       "discordURL": "https://discord.com/invite/fEBJYFnKsp",
-      "websiteURL": "https://moddinglounge.com/modlists/l7nqr2zyvs9qaxtu8j5tad05"
+      "websiteURL": "https://moddinglounge.com/modlists/l7nqr2zyvs9qaxtu8j5tad05",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "a3aZKI9JX7k=",
@@ -65,23 +66,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/refs/heads/main/Modlists/A%20Blue%20Moon/A%20Blue%20Moon.webp",
       "readme": "https://moddinglounge.com/modlists/ud2woh5rglxqpesnoodr8xml#requirements",
-      "download": "https://authored-files.wabbajack.org/A Blue Moon.wabbajack_2a7fca00-257b-4641-82cf-daa5b16e4eae",
+      "download": "https://authored-files.wabbajack.org/A Blue Moon.wabbajack_d6693482-5691-4eb0-81ac-cdfa087f0ea3",
       "machineURL": "A-Blue-Moon",
       "discordURL": "https://discord.com/invite/fEBJYFnKsp",
-      "websiteURL": "https://moddinglounge.com/modlists/ud2woh5rglxqpesnoodr8xml"
+      "websiteURL": "https://moddinglounge.com/modlists/ud2woh5rglxqpesnoodr8xml",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "c/kHx9gFGmY=",
-      "Size": 5247642772,
-      "NumberOfArchives": 1421,
-      "SizeOfArchives": 63204092315,
-      "NumberOfInstalledFiles": 158979,
-      "SizeOfInstalledFiles": 102972782087,
-      "TotalSize": 166176874402
+      "Hash": "Ig2+JUbPokI=",
+      "Size": 5358756113,
+      "NumberOfArchives": 1309,
+      "SizeOfArchives": 63720895005,
+      "NumberOfInstalledFiles": 265444,
+      "SizeOfInstalledFiles": 190169956757,
+      "TotalSize": 253890851762
     },
-    "version": "2.1.0",
+    "version": "2.2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-09T20:42:26.3708862Z",
+    "dateUpdated": "2026-04-18T14:47:14.0526545Z",
     "repositoryName": ""
   }
 ]
