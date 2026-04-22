@@ -66,24 +66,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Rage-GitHub/Modding-Lounge/refs/heads/main/Modlists/A%20Blue%20Moon/A%20Blue%20Moon.webp",
       "readme": "https://moddinglounge.com/modlists/ud2woh5rglxqpesnoodr8xml#requirements",
-      "download": "https://authored-files.wabbajack.org/A Blue Moon.wabbajack_b5eb6fc6-0ddb-4662-8b03-63e4184bc306",
+      "download": "https://authored-files.wabbajack.org/A Blue Moon.wabbajack_b17f62fe-0a04-4463-a741-6f631fb5ffce",
       "machineURL": "A-Blue-Moon",
       "discordURL": "https://discord.com/invite/fEBJYFnKsp",
       "websiteURL": "https://moddinglounge.com/modlists/ud2woh5rglxqpesnoodr8xml",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "YNhp+Gk0v2E=",
-      "Size": 5305784629,
-      "NumberOfArchives": 1304,
-      "SizeOfArchives": 63513146442,
-      "NumberOfInstalledFiles": 163682,
-      "SizeOfInstalledFiles": 104521424053,
-      "TotalSize": 168034570495
+      "Hash": "6F7xj/ae9s4=",
+      "Size": 5305825109,
+      "NumberOfArchives": 1309,
+      "SizeOfArchives": 63610965150,
+      "NumberOfInstalledFiles": 164967,
+      "SizeOfInstalledFiles": 105036364881,
+      "TotalSize": 168647330031
     },
     "version": "2.2.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-04-21T16:24:15.8318907Z",
+    "dateUpdated": "2026-04-22T14:53:20.1775898Z",
     "repositoryName": ""
   }
 ]
