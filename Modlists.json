@@ -70,7 +70,12 @@
       "machineURL": "A-Blue-Moon",
       "discordURL": "https://discord.com/invite/fEBJYFnKsp",
       "websiteURL": "https://moddinglounge.com/modlists/ud2woh5rglxqpesnoodr8xml",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "498955",
+        "slug": "mgupxl",
+        "domainName": "newvegas",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "lg7IpfifYA8=",
